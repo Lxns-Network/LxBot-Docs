@@ -21,6 +21,12 @@ module.exports = ctx => ({
   ],
   plugins: [
 	['@vuepress/back-to-top', true],
+    [
+      '@vuepress/google-analytics',
+      {
+        'ga': 'UA-162093340-1'
+      }
+    ],
     ['vuepress-plugin-clean-urls', { // URL转义
       normalSuffix: '/',
       indexSuffix: '/',
