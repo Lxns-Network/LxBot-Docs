@@ -7,3 +7,9 @@
 
 ## 文档地址
 https://bot.lxns.org/help/
+
+## 编译
+`npm run docs:build`
+
+## 开发
+`npm run docs:dev`
