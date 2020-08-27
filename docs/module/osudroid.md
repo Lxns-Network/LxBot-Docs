@@ -27,8 +27,8 @@
 
 ## 查询单曲最佳成绩
 ```
-/od info <BID>
-/osud info <BID>
-/osudroid info <BID>
+/od info <SID>
+/osud info <SID>
+/osudroid info <SID>
 ```
-`<BID>` 为 Beatmap ID。
+`<SID>` 为 Beatmapset ID。

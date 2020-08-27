@@ -1,7 +1,7 @@
-module.exports = {
+module.exports = ctx => ({
   title: '软糖酱',
   description: '帮助文档',
-  base: '/help/',
+  base: '/docs/',
   themeConfig: {
     logo: '/img/logo.png',
     nav: [
@@ -10,14 +10,17 @@ module.exports = {
     ],
     sidebar: 'auto',
     displayAllHeaders: true,
-    smoothScroll: true
+    smoothScroll: true,
+    lastUpdated: '最后更新时间',
+    repo: 'Lxns-Network/LxBot-QQ-Docs',
+    repoLabel: 'GitHub'
   },
   head: [
     ['link', { rel: 'icon', href: '/img/logo.png' }],
     ['link', { rel: 'stylesheet', href: '/css/index.css' }]
   ],
   plugins: [
-	['@vuepress/back-to-top'],
+	['@vuepress/back-to-top', true],
     ['vuepress-plugin-clean-urls', { // URL转义
       normalSuffix: '/',
       indexSuffix: '/',
@@ -40,4 +43,4 @@ module.exports = {
       after: '</div>',
     }]
   ]
-}
+})
