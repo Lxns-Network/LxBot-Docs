@@ -5,28 +5,29 @@
 ---
 
 ## 帮助
-```
+``` {1}
 /od help
 /osud help
 /osudroid help
 ```
 
 ## 绑定账号
-```
+``` {1}
 /od bind <osu!droid 用户名>
 /osud bind <osu!droid 用户名>
 /osudroid bind <osu!droid 用户名>
 ```
 
 ## 查询最近成绩
-```
+``` {1}
 /od [info [@]]
 /osud [info [@]]
 /osudroid [info [@]]
 ```
+`[@]` 为空时默认自己账号，反之为目标账号。
 
 ## 查询单曲最佳成绩
-```
+``` {1}
 /od info <SID>
 /osud info <SID>
 /osudroid info <SID>

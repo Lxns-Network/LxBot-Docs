@@ -12,9 +12,9 @@
 ```
 /tts [语言] <内容>
 ```
-`[语言]` 可选值: 
-- zh-CN（默认）: `cn`
+`[语言]` 可选值：
+- zh-CN（默认）：`cn`
 - ja-JP：`jp`
-- en-AU: `au`
-- en-US: `us`
-- fr-FR: `fr`
+- en-AU：`au`
+- en-US：`us`
+- fr-FR：`fr`

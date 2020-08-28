@@ -8,14 +8,14 @@
 ---
 
 ## 帮助
-```
+``` {1}
 /n help
 /net help
 /network help
 ```
 
 ## Ping
-```
+``` {1}
 /n ping <主机名> [次数]
 /net ping <主机名> [次数]
 /network ping <主机名> [次数]
@@ -23,7 +23,7 @@
 `[次数]` 为整数，最大为 10 次。
 
 ## DNS 查询
-```
+``` {1}
 /n dns <主机名> <记录名>
 /net dns <主机名> <记录名>
 /network dns <主机名> <记录名>
@@ -31,8 +31,8 @@
 `<记录名>` 包含 **A**, **AAAA**, **CNAME**, **MX**, **NAPTR**, **NS**, **PTR**, **SOA**, **SRV**, **TXT**。
 
 ## TCP 路由追踪
-<span class="span-admin">Bot 管理员</span>
-```
+<span class="span-bot-admin">Bot 管理员</span>
+``` {1}
 /n trace <主机名>
 /n tracert <主机名>
 /n traceroute <主机名>

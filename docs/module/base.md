@@ -8,27 +8,27 @@
 
 ## Ping
 测试软糖酱的消息处理延迟。
-```
+``` {1}
 /b ping
 /base ping
 ```
 
 ## 关于
-```
+``` {1}
 /b about
 /base about
 ```
 
 ## 帮助
 查询软糖酱内置帮助。
-```
+``` {1}
 /b help [模块名]
 /base help [模块名]
 ```
 
 ## 签到
 获取[硬币](/coin/)的一种方式。
-```
+``` {1}
 /b sign
 /base sign
 ```
@@ -39,14 +39,14 @@
 该指令需要软糖酱账号为群管理员。
 :::
 帮助群员更好的入睡，不再水群。
-```
+``` {1}
 /b sleep [小时]
 /base sleep [小时]
 ```
 `[小时]` 默认值为 **6**。
 
 ## 运行状态
-```
+``` {1}
 /b stat
 /b status
 /base stat
@@ -58,14 +58,14 @@
 
 ### 查询
 查询当前账号的硬币数量。
-```
+``` {1}
 /b coin
 /base coin
 ```
 
 ### 转账
 将当前账号的硬币转让给其他人。
-```
+``` {1}
 /b coin pay <目标> <硬币数>
 /b coin transfer <目标> <硬币数>
 /base coin pay <目标> <硬币数>
@@ -75,7 +75,7 @@
 
 ### 抽奖
 获取硬币的一种方式。
-```
+``` {1}
 /b coin wager
 /b coin gamble
 /base coin wager
@@ -87,24 +87,24 @@
 :::
 
 ### 给予
-<span class="span-admin">Bot 管理员</span>
-```
+<span class="span-bot-admin">Bot 管理员</span>
+``` {1}
 /b coin give <目标> <硬币数>
 /base coin give <目标> <硬币数>
 ```
 `<目标>` 为 **@** 或 **QQ 号**。
 
 ### 拿取
-<span class="span-admin">Bot 管理员</span>
-```
+<span class="span-bot-admin">Bot 管理员</span>
+``` {1}
 /b coin take <目标> <硬币数>
 /base coin take <目标> <硬币数>
 ```
 `<目标>` 为 **@** 或 **QQ 号**。
 
 ### 设置
-<span class="span-admin">Bot 管理员</span>
-```
+<span class="span-bot-admin">Bot 管理员</span>
+``` {1}
 /b coin set <目标> <硬币数>
 /base coin set <目标> <硬币数>
 ```
@@ -114,15 +114,15 @@
 
 ### 查询
 查询目标账号的用户组。
-```
+``` {1}
 /b member info [目标]
 /base member info [目标]
 ```
 `[目标]` 为 **@** 或 **QQ 号**。
 
 ### 设置
-<span class="span-admin">Bot 管理员</span>
-```
+<span class="span-bot-admin">Bot 管理员</span>
+``` {1}
 /b member set <目标> <用户组>
 /base member set <目标> <用户组>
 ```
@@ -136,10 +136,10 @@
 ### 选项
 <span class="span-admin">群管理员</span>
 <span class="span-group">群主</span>
-<span class="span-admin">Bot 管理员</span>
+<span class="span-bot-admin">Bot 管理员</span>
 
 该部分在旧版本中指的是[模块](#模块)。
-```
+``` {1}
 /b group conf <选项>
 /b group config <选项>
 /base group conf <选项>
@@ -156,15 +156,15 @@
 - 模块警示：`module_warn [on|off]`
 
 ### 查询
-```
+``` {1}
 /b group info [目标]
 /base group info [目标]
 ```
 `[目标]` 为 **this** 或 **群号**。
 
 ### 设置
-<span class="span-admin">Bot 管理员</span>
-```
+<span class="span-bot-admin">Bot 管理员</span>
+``` {1}
 /b group set <目标> <权限>
 /base group set <目标> <权限>
 ```
@@ -177,19 +177,19 @@
 
 <span class="span-admin">群管理员</span>
 <span class="span-group">群主</span>
-<span class="span-admin">Bot 管理员</span>
+<span class="span-bot-admin">Bot 管理员</span>
 
 该功能用于开关指定群聊的模块。
 
 ### 设置
-```
+``` {1}
 /b module set <模块名> <on|off>
 /base module set <模块名> <on|off>
 ```
 `<模块名>` 可在[模块列表](#模块列表)中查询。
 
 ### 模块列表
-```
+``` {1}
 /b module list
 /base module list
 ```

@@ -9,7 +9,7 @@
 ```
 
 ## 群成员发言
-```
+``` {1}
 /rank
 /rank this
 /rank this [范围]

@@ -11,20 +11,20 @@
 :::
 
 ## 帮助
-```
+``` {1}
 /g help
 /gobang help
 ```
 
 ## 创建房间
-```
+``` {1}
 /g create [棋盘大小]
 /gobang create [棋盘大小]
 ```
 `[棋盘大小]` 为整数，取值范围为 **5 ~ 20**（默认 15）。
 
 ## 加入房间
-```
+``` {1}
 /g join <房间 ID>
 /gobang join <房间 ID>
 ```
@@ -32,7 +32,7 @@
 
 ## 删除房间
 该指令需要您在一个房间中。
-```
+``` {1}
 /g stop
 /g exit
 /gobang stop
@@ -41,14 +41,14 @@
 
 ## 获取棋盘
 该指令用于图片无法正常获取时的重试方案。
-```
+``` {1}
 /g get
 /gobang get
 ```
 
 ## 放置棋子
 该指令需要您在一个房间中。
-```
+``` {1}
 /g put <x> <y>
 /g place <x> <y>
 /gobang put <x> <y>
@@ -62,8 +62,8 @@
 ```
 
 ## 清空所有房间
-<span class="span-admin">Bot 管理员</span>
-```
+<span class="span-bot-admin">Bot 管理员</span>
+``` {1}
 /g clear
 /gobang clear
 ```

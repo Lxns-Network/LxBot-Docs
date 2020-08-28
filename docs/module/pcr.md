@@ -28,7 +28,7 @@
 ```
 
 ## 仓库列表
-```
+``` {1}
 /pcr depo
 /pcr depository
 ```

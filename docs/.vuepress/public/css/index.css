@@ -16,6 +16,12 @@
 	padding: 2px 8px;
 	border-radius: 4px;
 }
+.span-bot-admin {
+	background-color: crimson;
+	color: white;
+	padding: 2px 8px;
+	border-radius: 4px;
+}
 .main-logo {
 	width: 300px;
 	margin-left: calc(50% - 150px);

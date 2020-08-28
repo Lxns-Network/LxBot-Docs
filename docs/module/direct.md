@@ -3,7 +3,7 @@
 
 <span class="span-admin">群管理员</span>
 <span class="span-group">群主</span>
-<span class="span-admin">Bot 管理员</span>
+<span class="span-bot-admin">Bot 管理员</span>
 ::: right
 旧版为 **定义指令**，即 `/define`。
 :::
@@ -13,7 +13,7 @@
 ---
 
 ## 帮助
-```
+``` {1}
 /d help
 /direct help
 ```
@@ -23,7 +23,7 @@
 
 而 `{{"{{子匹配位置|默认值}\}"}}` 用法已经移除。
 :::
-```
+``` {1,2}
 /d add <目标指令>
 <匹配正则>
 
@@ -41,7 +41,7 @@
 ```
 
 ## 删除
-```
+``` {1}
 /d del <all|转发 ID>
 /d delete <all|转发 ID>
 /direct del <all|转发 ID>
@@ -50,7 +50,7 @@
 `<转发 ID>` 可在[转发列表](#转发列表)中查询。
 
 ## 转发列表
-```
+``` {1}
 /d list
 /direct list
 ```

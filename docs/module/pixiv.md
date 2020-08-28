@@ -5,7 +5,7 @@
 ---
 
 ## 帮助
-```
+``` {1}
 /p help
 /pixiv help
 ```
@@ -14,7 +14,7 @@
 ::: theorem 你知道吗？
 该功能用的都是开发者本人的账号，或许可以知道开发者的 xp？
 :::
-```
+``` {1}
 /p rand [来源]
 /p random [来源]
 /pixiv rand [来源]
@@ -28,7 +28,7 @@
 
 ## 下载原图
 包含 `R-18` 与 `R-18G` 标签的图片将会被忽略。
-```
+``` {1}
 /p get <作品 ID>
 /p download <作品 ID>
 /pixiv get <作品 ID>
@@ -39,7 +39,7 @@
 ::: warning 注意
 该功能暂时被废弃。
 :::
-```
+``` {1}
 /p conf <选项>
 /p config <选项>
 /pixiv conf <选项>
@@ -49,8 +49,8 @@
 - 带图模式：`img` 或 `image`
 
 ## 保存到缓存
-<span class="span-admin">Bot 管理员</span>
-```
+<span class="span-bot-admin">Bot 管理员</span>
+``` {1}
 /p save <作品 ID>
 /pixiv save <作品 ID>
 ```

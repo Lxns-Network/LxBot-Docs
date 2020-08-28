@@ -5,13 +5,13 @@
 ---
 
 ## 帮助
-```
+``` {1}
 /s help
 /search help
 ```
 
 ## 以图搜图
-```
+``` {1}
 /s img [图片]
 /s image [图片]
 /search img [图片]
