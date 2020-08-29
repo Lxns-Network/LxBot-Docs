@@ -48,5 +48,10 @@ module.exports = ctx => ({
       before: info => `<div class="theorem"><p class="title">${info}</p>`,
       after: '</div>',
     }]
-  ]
+  ],
+  pwa: {
+    workboxOptions: {
+      skipWaiting: true
+    }
+  }
 })
