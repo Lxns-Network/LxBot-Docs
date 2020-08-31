@@ -193,3 +193,63 @@
 /b module list
 /base module list
 ```
+
+## 兑换码
+用于 Bot 管理员发行奖励。
+
+### 兑换
+``` {1}
+/b gift cash <兑换码>
+/base gift cash <兑换码>
+```
+
+### 生成
+<span class="span-bot-admin">Bot 管理员</span>
+``` {1}
+/b gift gen <礼品类型> <兑换数量 / 人> <兑换人数> <兑换次数 / 人> <过期时间>
+/b gift generate <礼品类型> <兑换数量 / 人> <兑换人数> <兑换次数 / 人> <过期时间>
+/base gift gen <礼品类型> <兑换数量 / 人> <兑换人数> <兑换次数 / 人> <过期时间>
+/base gift generate <礼品类型> <兑换数量 / 人> <兑换人数> <兑换次数 / 人> <过期时间>
+```
+`<礼品类型>` 可选值：
+- 硬币：`coin`
+
+`<兑换人数>` 为 **-1** 时为无限。
+
+`<过期时间>` 单位为秒，为 **-1** 时为永不。
+
+### 列表
+<span class="span-bot-admin">Bot 管理员</span>
+
+该指令仅会显示 `<兑换码前缀>`，不能直接兑换。
+``` {1}
+/b gift list
+/base gift list
+```
+
+### 详情
+<span class="span-bot-admin">Bot 管理员</span>
+``` {1}
+/b gift info <兑换码前缀>
+/base gift info <兑换码前缀>
+```
+
+### 回收
+<span class="span-bot-admin">Bot 管理员</span>
+
+该指令会将发行的所有奖励回收。
+``` {1}
+/b gift recover <兑换码前缀>
+/base gift recover <兑换码前缀>
+```
+
+### 删除
+<span class="span-bot-admin">Bot 管理员</span>
+
+该指令会将兑换码直接删除，不会回收已发行的奖励。
+``` {1}
+/b gift del <兑换码前缀>
+/b gift delete <兑换码前缀>
+/base gift del <兑换码前缀>
+/base gift delete <兑换码前缀>
+```
