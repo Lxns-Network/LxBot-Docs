@@ -18,6 +18,7 @@ sidebar: false
 - 发言排行：[Rank](./rank/)
 - 音游：[Rhythm](./rhythm/)
   - [Arcaea](./arcaea/)
+  - [Phigros](./phigros/) <Badge text="new" />
   - [osu!droid](./osudroid/)
 - 以图搜图：[Search](./search/)
 - 文本转语音：[TTS](./tts/)

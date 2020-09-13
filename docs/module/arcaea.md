@@ -56,7 +56,7 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 /arcaea best30
 ```
 
-## 潜力值计算 <Badge text="new" />
+## 潜力值计算
 通过定数与成绩计算出潜力值。
 ``` {1}
 /a calc <分数> <定数|曲名 [难度]>
@@ -72,7 +72,7 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 - Present：`present` 或 `prs`
 - Past：`past` 或 `pst`
 
-## 曲目信息 <Badge text="new" />
+## 曲目信息
 ``` {1}
 /a song <曲名>
 /arc song <曲名>
