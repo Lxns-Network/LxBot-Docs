@@ -34,7 +34,7 @@
 ```
 `<SID>` 为 Beatmapset ID。
 
-## 查询多次成绩 <Badge text="new" />
+## 查询多次成绩
 获取最近 5 次的成绩。
 ``` {1}
 /od multi

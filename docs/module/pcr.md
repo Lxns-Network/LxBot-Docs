@@ -32,3 +32,21 @@
 /pcr depo
 /pcr depository
 ```
+
+## 竞技场查询 <Badge text="new" />
+```
+/pcr arena <角色 1> [角色 2-5]
+```
+`<角色 1>` 与 `[角色 2-5]` 支持部分别名。
+
+## 角色竞猜 <Badge text="new" />
+<span class="span-group">群聊</span>
+```
+/pcr guess
+```
+::: tip 游玩方法
+每次发起竞猜消耗 1 个[硬币](/coin/)。**回复**软糖发送的消息即可回答问题，
+首个半分钟内正确回答者可获得 5 个硬币。
+
+个人每日最多正确回答 10 次。
+:::

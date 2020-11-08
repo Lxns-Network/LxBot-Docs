@@ -6,7 +6,11 @@
 ## 可用的来源功能
 - 基础：[签到](/module/base/#签到)
 - 基础：[抽奖](/module/base/#抽奖)
+- 公主连结：[角色竞猜](/module/pcr/#角色竞猜)
+- Phigros：[猜歌](/module/phigros/#猜歌)
 
 ## 可用的支出功能
 - 基础：[抽奖](/module/base/#抽奖)
 - 公主连结：[抽卡](/module/pcr/#抽卡)
+- 公主连结：[角色竞猜](/module/pcr/#角色竞猜)
+- Phigros：[猜歌](/module/phigros/#猜歌)

@@ -9,3 +9,4 @@ sidebar: false
 索引页：
 - [Arcaea](/module/arcaea/)
 - [osu!droid](/module/osudroid/)
+- [Phigros](/module/phigros/)

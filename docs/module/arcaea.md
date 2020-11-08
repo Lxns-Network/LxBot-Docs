@@ -78,3 +78,16 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 /arc song <曲名>
 /arcaea song <曲名>
 ```
+
+## 曲目本地排行 <Badge text="new" />
+查询软糖酱缓存的成绩排行。
+``` {1}
+/a rank <曲名 [难度]>
+/arc rank <曲名 [难度]>
+/arcaea rank <曲名 [难度]>
+```
+`[难度]` 可选值：
+- Beyond：`beyond` 、 `byd` 或 `byn`
+- Future（默认）：`future` 或 `ftr`
+- Present：`present` 或 `prs`
+- Past：`past` 或 `pst`
