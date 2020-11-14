@@ -19,6 +19,11 @@ module.exports = ctx => ({
     ['link', { rel: 'icon', href: '/img/logo.png' }],
     ['link', { rel: 'stylesheet', href: '/css/index.css' }]
   ],
+  locales: {
+    '/': {
+      lang: 'zh-CN',
+    }
+  },
   plugins: [
 	['@vuepress/back-to-top', true],
     [
@@ -37,7 +42,10 @@ module.exports = ctx => ({
     }],
 	['@vuepress/pwa', { // 离线页面
       serviceWorker: true,
-      updatePopup: true
+      updatePopup: {
+        message: "发现新内容可用。",
+        buttonText: "刷新",
+	  }
     }],
     ['vuepress-plugin-container', {
       type: 'right',

@@ -13,10 +13,16 @@
     "vuepress-plugin-container": "^2.1.4",
     "vuepress-plugin-fulltext-search": "^2.0.5",
     "vuepress-plugin-img-lazy": "^1.0.4",
-    "vuepress-plugin-table-of-contents": "^1.1.6"
+    "vuepress-plugin-table-of-contents": "^1.1.6",
+    "vuepress-theme-reco": "^1.5.7"
   },
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "vuepress-plugin-code-copy": "^1.0.6",
+    "vuepress-plugin-permalink-pinyin": "^1.0.0",
+    "vuepress-theme-default-prefers-color-scheme": "^1.1.2"
   }
 }
