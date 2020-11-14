@@ -47,7 +47,7 @@
 - AT：`at`
 - Legacy：`legacy`
 
-## 随机 Tips <Badge text="new" />
+## 随机 Tips
 ``` {1}
 /pgr tip
 /pgr tips
@@ -57,7 +57,7 @@
 /phigros tips
 ```
 
-## 猜歌 <Badge text="new" />
+## 猜歌
 <span class="span-group">群聊</span>
 ``` {1}
 /pgr guess [秒数]

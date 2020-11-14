@@ -7,22 +7,22 @@ sidebar: false
 ---
 
 索引页：
-- 基础 <Badge text="update" />：[Base](./base/)
+- 基础：[Base](./base/)
 - 漂流瓶：[Bottle](./bottle/)
 - 指令转发：[Direct](./direct/)
 - 五子棋：[Gobang](./gobang/)
 - 网络工具：[Network](./network/)
-- 图片文字识别 <Badge text="new" />：[OCR](./ocr/)
-- 公主连结 <Badge text="update" />：[PCR](./pcr/)
+- 图片文字识别：[OCR](./ocr/)
+- 公主连结：[PCR](./pcr/)
 - [Pixiv](./pixiv/)
 - 二维码：[QRC](./qrc/)
-- 发言排行 <Badge text="update" />：[Rank](./rank/)
+- 发言排行：[Rank](./rank/)
 - 音游：[Rhythm](./rhythm/)
   - [Arcaea](./arcaea/) <Badge text="update" />
-  - [Phigros](./phigros/) <Badge text="update" />
+  - [Phigros](./phigros/)
   - [osu!droid](./osudroid/)
 - 以图搜图：[Search](./search/)
-- 翻译 <Badge text="new" />：[Translate](./translate/)
+- 翻译：[Translate](./translate/)
 - 文本转语音：[TTS](./tts/)
 
 在上述链接中**黑底白字**的为指令，通过指令可以与机器人进行交互。

@@ -79,7 +79,7 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 /arcaea song <曲名>
 ```
 
-## 曲目本地排行 <Badge text="new" />
+## 曲目本地排行
 查询软糖酱缓存的成绩排行。
 ``` {1}
 /a rank <曲名 [难度]>
@@ -91,3 +91,24 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 - Future（默认）：`future` 或 `ftr`
 - Present：`present` 或 `prs`
 - Past：`past` 或 `pst`
+
+## 猜歌 <Badge text="new" />
+<span class="span-group">群聊</span>
+``` {1}
+/a guess [秒数]
+/arc guess [秒数]
+/arcaea guess [秒数]
+```
+`[秒数]` 为 1 至 5 的整数，默认为 **5**。
+::: tip 游玩方法
+每次发起竞猜消耗 1 个[硬币](/coin/)。**回复**软糖发送的语音消息即可回答问题，
+首个半分钟内正确回答者可获得硬币奖励，回答的歌名请尽量规范。
+
+不同的秒数对应不同的奖励：
+- 5 秒 1 个硬币
+- 4 秒 2 个硬币
+- ……
+- 1 秒 5 个硬币
+
+个人每日最多正确回答 10 次。
+:::

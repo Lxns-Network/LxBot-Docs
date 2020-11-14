@@ -1,4 +1,4 @@
-# 图片文字识别 <Badge text="new" />
+# 图片文字识别
 <span class="span-friend">私聊</span>
 <span class="span-group">群聊</span>
 

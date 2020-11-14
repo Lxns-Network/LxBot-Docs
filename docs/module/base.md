@@ -35,7 +35,7 @@
 /base help [模块名]
 ```
 
-## 签到 <Badge text="update" />
+## 签到
 获取[硬币](/coin/)与经验的一种方式。
 ``` {1}
 /b sign

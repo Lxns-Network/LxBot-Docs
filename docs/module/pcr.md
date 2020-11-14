@@ -33,13 +33,13 @@
 /pcr depository
 ```
 
-## 竞技场查询 <Badge text="new" />
+## 竞技场查询
 ```
 /pcr arena <角色 1> [角色 2-5]
 ```
 `<角色 1>` 与 `[角色 2-5]` 支持部分别名。
 
-## 角色竞猜 <Badge text="new" />
+## 角色竞猜
 <span class="span-group">群聊</span>
 ```
 /pcr guess

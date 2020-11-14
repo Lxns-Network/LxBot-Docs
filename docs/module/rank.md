@@ -8,7 +8,7 @@
 /rank help
 ```
 
-## 群成员发言 <Badge text="update" />
+## 群成员发言
 ``` {1}
 /rank
 /rank this
@@ -21,7 +21,7 @@
 
 `[日期]` 格式为 **yyMMdd**，如 `201108`。
 
-## 成员总发言 <Badge text="update" />
+## 成员总发言
 ```
 /rank all [范围 [日期]]
 ```
