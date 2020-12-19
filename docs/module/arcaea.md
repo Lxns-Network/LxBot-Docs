@@ -32,6 +32,9 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 /arcaea [info [@]]
 ```
 `[@]` 为空时默认自己账号，反之为目标账号。
+::: tip 提示
+您可以使用 `/a conf img` 切换卡片查询类型。
+:::
 
 ## 查询单曲最佳成绩
 ``` {1}
@@ -92,7 +95,22 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 - Present：`present` 或 `prs`
 - Past：`past` 或 `pst`
 
-## 猜歌 <Badge text="new" />
+## 开关选项 <Badge text="new" />
+``` {1}
+/a conf <选项>
+/a config <选项>
+/arc conf <选项>
+/arc config <选项>
+/arcaea conf <选项>
+/arcaea config <选项>
+```
+`<选项>` 可选值：
+- 卡片查询类型：`img` 或 `image`
+  - LxBot（默认）
+  - RABiBOT v2
+  <br>*仅支持[查询最近成绩](./#查询最近成绩)。*
+
+## 猜歌
 <span class="span-group">群聊</span>
 ``` {1}
 /a guess [秒数]

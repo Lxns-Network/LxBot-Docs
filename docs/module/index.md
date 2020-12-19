@@ -13,6 +13,7 @@ sidebar: false
 - 五子棋：[Gobang](./gobang/)
 - 网络工具：[Network](./network/)
 - 图片文字识别：[OCR](./ocr/)
+- 画板 <Badge text="new" />：[Paint](./paint/)
 - 公主连结：[PCR](./pcr/)
 - [Pixiv](./pixiv/)
 - 二维码：[QRC](./qrc/)
