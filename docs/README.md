@@ -14,7 +14,7 @@ Illustrator: [PIKARU闪闪](https://bcy.net/u/104986737835)
 :::
 
 # 帮助文档
-> 适用版本号：v2.0.0-b23
+> 适用版本号：v2.0.0
 
 本文档将指引您如何获取并使用 LxBot。
 
@@ -63,3 +63,6 @@ Illustrator: [PIKARU闪闪](https://bcy.net/u/104986737835)
 ## [阅读提示](/tips/)
 
 ## [常见问题](/faq/)
+
+## [旧版文档](https://bot.lxns.org/help-old/)
+该文档为 1.0 早期版本的文档，基于酷Q。

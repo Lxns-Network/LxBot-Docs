@@ -21,3 +21,8 @@
 - [mamoe/mirai](https://github.com/mamoe/mirai)
 - [project-mirai/mirai-api-http](https://github.com/project-mirai/mirai-api-http)
 - [Lxns-Network/mirai-python-sdk](https://github.com/Lxns-Network/mirai-python-sdk)（基于 kuriyama 修改后的版本）
+
+与每位用户的支持。
+
+## 赞助
+机器人的维护及运营需要费用，您可以通过[爱发电](https://afdian.net/@lxnssama)支持软糖酱的可持续运行。

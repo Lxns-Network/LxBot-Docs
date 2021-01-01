@@ -1,4 +1,4 @@
-# 画板 <Badge text="new" />
+# 画板
 <span class="span-friend">私聊</span>
 <span class="span-group">群聊</span>
 

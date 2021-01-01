@@ -6,7 +6,7 @@ module.exports = ctx => ({
     logo: '/img/logo.png',
     nav: [
       { text: '首页', link: 'https://bot.lxns.org/' },
-      { text: '关于', link: 'https://bot.lxns.org/about/' }
+      { text: '关于', link: '/about/' }
     ],
     sidebar: 'auto',
     displayAllHeaders: true,
