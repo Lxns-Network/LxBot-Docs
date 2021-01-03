@@ -131,14 +131,14 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 个人每日最多正确回答 10 次。
 :::
 
-## 控分计算 <Badge text="new" />
+## 控分计算
 ``` {1}
 /a calcscore <物量> <目标分数>
 /arc calcscore <物量> <目标分数>
 /arcaea calcscore <物量> <目标分数>
 ```
 
-## 世界模式 <Badge text="new" />
+## 世界模式
 您可以在该功能中通过爬梯获取[硬币](/coin/)奖励。
 
 ### 地图列表

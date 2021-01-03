@@ -11,6 +11,7 @@ sidebar: false
 - 漂流瓶：[Bottle](./bottle/)
 - 指令转发：[Direct](./direct/)
 - 五子棋：[Gobang](./gobang/)
+- [Minecraft](./minecraft/) <Badge text="new" />
 - 网络工具：[Network](./network/)
 - 图片文字识别：[OCR](./ocr/)
 - 画板：[Paint](./paint/)
@@ -19,7 +20,7 @@ sidebar: false
 - 二维码：[QRC](./qrc/)
 - 发言排行：[Rank](./rank/)
 - 音游：[Rhythm](./rhythm/)
-  - [Arcaea](./arcaea/) <Badge text="update" />
+  - [Arcaea](./arcaea/)
   - [Phigros](./phigros/)
   - [osu!droid](./osudroid/)
 - 以图搜图：[Search](./search/)
