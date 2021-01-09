@@ -17,11 +17,11 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 /arcaea help
 ```
 
-## 绑定账号
+## 绑定账号 <Badge text="update" />
 ``` {1}
-/a bind <Arcaea ID>
-/arc bind <Arcaea ID>
-/arcaea bind <Arcaea ID>
+/a bind <Arcaea ID|用户名>
+/arc bind <Arcaea ID|用户名>
+/arcaea bind <Arcaea ID|用户名>
 ```
 `<Arcaea ID>` 为 9 位好友 ID。
 
@@ -32,7 +32,7 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 /arcaea [info [@]]
 ```
 `[@]` 为空时默认自己账号，反之为目标账号。
-::: tip 提示
+::: theorem 提示
 您可以使用 `/a conf img` 切换卡片查询类型。
 :::
 
@@ -118,7 +118,7 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 /arcaea guess [秒数]
 ```
 `[秒数]` 为 1 至 5 的整数，默认为 **5**。
-::: tip 游玩方法
+::: theorem 游玩方法
 每次发起竞猜消耗 1 个[硬币](/coin/)。**回复**软糖发送的语音消息即可回答问题，
 首个半分钟内正确回答者可获得硬币奖励，回答的歌名请尽量规范。
 
@@ -181,7 +181,7 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 /arcaea world upload
 ```
 
-::: tip 提示
+::: theorem 提示
 该指令会消耗 1 点体力。
 :::
 
@@ -193,6 +193,38 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 /arcaea world stamina
 ```
 
-::: tip 提示
+::: theorem 提示
 体力每半个小时恢复 1 点，满体力为 6 点。
+:::
+
+## 登录账号 <Badge text="new" />
+> 该指令与[绑定账号](#绑定账号)不互通。
+``` {1}
+/a login [<账号> <密码>]
+/arc login [<账号> <密码>]
+/arcaea login [<账号> <密码>]
+```
+::: tip 注意
+登录前，请确保您已知晓该指令会占用一个设备数，且该功能及其衍生功能可能会导致**封号**。
+
+在初次登录时，您需要提供账号与密码：`/a login <账号> <密码>`（<span class="span-friend">私聊</span>）。成功登录后，后台将会记录您的账号与密码仅用于之后的自动登录：`/a login`。
+:::
+
+## 购买体力 <Badge text="new" />
+> 您需要先[登录账号](#登录账号)。
+``` {1}
+/a purchase stamina
+/arc purchase stamina
+/arcaea purchase stamina
+```
+
+## 购买好友位 <Badge text="new" />
+> 您需要先[登录账号](#登录账号)。
+``` {1}
+/a purchase friend
+/arc purchase friend
+/arcaea purchase friend
+```
+::: tip 注意
+该指令会将好友位购买至**上限**（15 个）。
 :::

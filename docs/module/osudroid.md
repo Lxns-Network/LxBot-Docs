@@ -44,3 +44,18 @@
 /osudroid multi
 /osudroid multiple
 ```
+
+## CDPP 详情 <Badge text="new" />
+``` {1}
+/od cdpp
+/osud cdpp
+/osudroid cdpp
+```
+
+## CDPP 上传成绩 <Badge text="new" />
+``` {1}
+/od update [SID]
+/osud update [SID]
+/osudroid update [SID]
+```
+`[SID]` 为 Beatmapset ID。
