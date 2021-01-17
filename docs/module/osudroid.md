@@ -45,14 +45,14 @@
 /osudroid multiple
 ```
 
-## CDPP 详情 <Badge text="new" />
+## CDPP 详情
 ``` {1}
 /od cdpp
 /osud cdpp
 /osudroid cdpp
 ```
 
-## CDPP 上传成绩 <Badge text="new" />
+## CDPP 上传成绩
 ``` {1}
 /od update [SID]
 /osud update [SID]

@@ -20,9 +20,9 @@ sidebar: false
 - 二维码：[QRC](./qrc/)
 - 发言排行：[Rank](./rank/)
 - 音游：[Rhythm](./rhythm/)
-  - [Arcaea](./arcaea/) <Badge text="update" />
+  - [Arcaea](./arcaea/)
   - [Phigros](./phigros/)
-  - [osu!droid](./osudroid/) <Badge text="update" />
+  - [osu!droid](./osudroid/)
 - 以图搜图：[Search](./search/)
 - 翻译：[Translate](./translate/)
 - 文本转语音：[TTS](./tts/)

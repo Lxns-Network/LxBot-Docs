@@ -17,7 +17,7 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 /arcaea help
 ```
 
-## 绑定账号 <Badge text="update" />
+## 绑定账号
 ``` {1}
 /a bind <Arcaea ID|用户名>
 /arc bind <Arcaea ID|用户名>
@@ -197,7 +197,7 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 体力每半个小时恢复 1 点，满体力为 6 点。
 :::
 
-## 登录账号 <Badge text="new" />
+## 登录账号
 > 该指令与[绑定账号](#绑定账号)不互通。
 ``` {1}
 /a login [<账号> <密码>]
@@ -210,7 +210,7 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 在初次登录时，您需要提供账号与密码：`/a login <账号> <密码>`（<span class="span-friend">私聊</span>）。成功登录后，后台将会记录您的账号与密码仅用于之后的自动登录：`/a login`。
 :::
 
-## 购买体力 <Badge text="new" />
+## 购买体力
 > 您需要先[登录账号](#登录账号)。
 ``` {1}
 /a purchase stamina
@@ -218,7 +218,7 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 /arcaea purchase stamina
 ```
 
-## 购买好友位 <Badge text="new" />
+## 购买好友位
 > 您需要先[登录账号](#登录账号)。
 ``` {1}
 /a purchase friend
@@ -228,3 +228,6 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 ::: tip 注意
 该指令会将好友位购买至**上限**（15 个）。
 :::
+
+## ???
+`/user`
