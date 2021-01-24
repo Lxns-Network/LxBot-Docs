@@ -5,8 +5,6 @@
 Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 
 使用该工具表示您已知晓其违反了 [Arcaea 使用条款](https://arcaea.lowiro.com/zh/terms_of_service) 中的 **3.2-4** 与 **3.2-6**，因此造成的损失我们不予承担任何责任。
-
-同时这是灰色领域的指令，请不要张扬使用。
 :::
 
 ---
@@ -20,6 +18,8 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 ```
 ::: tip 注意
 存档关联的是 QQ 账号，而不是 Arcaea 账号。
+
+虽然您可以使用其他 Arcaea 账号的存档，但[自动爬梯](#自动爬梯)时请不要上传账号未购买的曲目（会导致封号）。
 :::
 
 ## 自动爬梯
@@ -50,7 +50,7 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 - Past：`past` 或 `pst`
 
 ::: tip 注意
-上传前请至游戏内选中所需地图与游玩搭档，并确保所选曲目符合地图内要求（不然会扣体力）。
+上传前请至游戏内选中所需地图与游玩搭档，并确保所选曲目符合地图内要求。
 
 所选曲目必须有记录成绩且不能为 **Track Lost** 评价。
 
@@ -99,7 +99,25 @@ Beyond 章节的残片深化与限时活动章节的源韵强化（如果有）�
 
 ### 体力详情
 ``` {1}
-/a world stamina
-/arc world stamina
-/arcaea world stamina
+/a user world stamina
+/arc user world stamina
+/arcaea user world stamina
 ```
+
+## 自定义设备 ID
+账号登录时用的设备唯一识别码。
+``` {1}
+/a user conf device_id [设备 ID]
+/a user config device_id [设备 ID]
+/arc user conf device_id [设备 ID]
+/arc user config device_id [设备 ID]
+/arcaea user conf device_id [设备 ID]
+/arcaea user config device_id [设备 ID]
+```
+`[设备 ID]` 为 UUID（如 **A4CA8FBF-1306-44C8-8ABD-C74954EA0EFD**），为空时则查询当前的设置。
+
+::: tip 注意
+一般在初次登录时会随机生成一个设备 ID，但有可能会挤掉其他设备，甚至导致冻结。
+
+所以该设置用于规避多设备登录导致的冻结，但设备 ID 请自行通过其它途径获取。
+:::
