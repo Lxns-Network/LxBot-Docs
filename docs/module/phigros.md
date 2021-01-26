@@ -4,13 +4,6 @@
 
 ---
 
-## 帮助
-``` {1}
-/pgr help
-/phi help
-/phigros help
-```
-
 ## 曲目详情
 ``` {1}
 /pgr song <曲名>

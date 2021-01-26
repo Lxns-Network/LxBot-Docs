@@ -4,13 +4,6 @@
 
 ---
 
-## 帮助
-``` {1}
-/od help
-/osud help
-/osudroid help
-```
-
 ## 绑定账号
 ``` {1}
 /od bind <osu!droid 用户名>

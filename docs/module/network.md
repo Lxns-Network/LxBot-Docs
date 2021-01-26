@@ -7,13 +7,6 @@
 :::
 ---
 
-## 帮助
-``` {1}
-/n help
-/net help
-/network help
-```
-
 ## Ping
 ``` {1}
 /n ping <主机名> [次数]

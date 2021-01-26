@@ -10,13 +10,6 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 
 ---
 
-## 帮助
-``` {1}
-/a help
-/arc help
-/arcaea help
-```
-
 ## 绑定账号
 ``` {1}
 /a bind <Arcaea ID|用户名>
