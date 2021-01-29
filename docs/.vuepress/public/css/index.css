@@ -22,6 +22,12 @@
 	padding: 2px 8px;
 	border-radius: 4px;
 }
+.span-bot-helper {
+	background-color: lightcoral;
+	color: white;
+	padding: 2px 8px;
+	border-radius: 4px;
+}
 .main-logo {
 	width: 300px;
 	margin-left: calc(50% - 150px);

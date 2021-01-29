@@ -80,4 +80,6 @@
 
 <span class="span-group">群主</span>：该指令仅本群群主可用。
 
+<span class="span-bot-helper">Bot 协助者</span>：该指令仅 Bot 协助者可用。
+
 <span class="span-bot-admin">Bot 管理员</span>：该指令仅 Bot 管理员可用。

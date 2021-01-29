@@ -45,6 +45,16 @@
 达到现阶段满级后将会额外赠送随机 1 至 10 的硬币，理论最高单日可获取的硬币数为 20。
 :::
 
+## 注册
+注册用户名用于软糖部分功能中对您的称呼。
+``` {1}
+/b reg <用户名>
+/b register <用户名>
+/base reg <用户名>
+/base register <用户名>
+```
+`<用户名>` 由英文、数字、“-” 或 “_” 组成。
+
 ## 今日运势
 > 结果仅供参考。
 ``` {1}
@@ -105,6 +115,12 @@
 初始奖池为 1000 个硬币。每日只能抽奖一次，每次投入 5 个硬币，中奖的概率为 0.01%。中奖后奖池内的所有硬币将会转入中奖者的账户中，届时奖池将会重置。
 :::
 
+### 排行
+``` {1}
+/b coin rank
+/base coin rank
+```
+
 ### 给予
 <span class="span-bot-admin">Bot 管理员</span>
 ``` {1}
@@ -131,6 +147,7 @@
 
 ## 物品
 通过[硬币](/coin/)在[商店](#商店)购买或其他途径获取的内容，可以用来使用一些功能。
+
 ### 库存
 ``` {1}
 /b item list
@@ -179,13 +196,20 @@
 
 ### 设置
 <span class="span-bot-admin">Bot 管理员</span>
+<span class="span-bot-helper">Bot 协助者</span>
 ``` {1}
 /b member set <目标> <用户组>
 /base member set <目标> <用户组>
 ```
 `<目标>` 为 **@** 或 **QQ 号**。
 
-`<用户组>` 为 **admin**, **normal**, **banned**。
+`<用户组>` 可选值：
+- Bot 管理员：**admin**
+  <br>*Bot 协助者无法设置*
+- Bot 协助者：**helper**
+  <br>*Bot 协助者无法设置*
+- 普通用户（默认）：**normal**
+- 被封禁用户：**banned**
 
 ## 群权限
 <span class="span-group">群聊</span>
@@ -194,6 +218,7 @@
 <span class="span-admin">群管理员</span>
 <span class="span-group">群主</span>
 <span class="span-bot-admin">Bot 管理员</span>
+<span class="span-bot-helper">Bot 协助者</span>
 
 该部分在旧版本中指的是[模块](#模块)。
 ``` {1}
@@ -222,27 +247,31 @@
 
 ### 设置
 <span class="span-bot-admin">Bot 管理员</span>
+<span class="span-bot-helper">Bot 协助者</span>
 ``` {1}
 /b group set <目标> <权限>
 /base group set <目标> <权限>
 ```
 `<目标>` 为 **this** 或 **群号**。
 
-`<权限>` 为 **normal**, **banned**。
+`<权限>` 可选值：
+- 正常群聊：**normal**
+- 未验证的群聊（默认）：**unverified**
+- 被封禁的群聊：**banned**
 
 ## 模块
 <span class="span-group">群聊</span>
 
-<span class="span-admin">群管理员</span>
-<span class="span-group">群主</span>
-<span class="span-bot-admin">Bot 管理员</span>
-
 该功能用于开关指定群聊的模块。
 
 ### 设置
+<span class="span-admin">群管理员</span>
+<span class="span-group">群主</span>
+<span class="span-bot-admin">Bot 管理员</span>
+<span class="span-bot-helper">Bot 协助者</span>
 ``` {1}
-/b module set <模块名> <on|off>
-/base module set <模块名> <on|off>
+/b module <模块名> <on|off>
+/base module <模块名> <on|off>
 ```
 `<模块名>` 可在[模块列表](#模块列表)中查询。
 
@@ -250,8 +279,15 @@
 使用已关闭的模块会提示 “模块未开启。”，使用 `/b group conf module_warn off` 关闭提示。
 :::
 
+### 查询
+查询单个模块的开关状态。
+``` {1}
+/b module <模块名>
+/base module <模块名>
+```
+
 ### 模块列表
-查询模块的开关状态。
+查询所有模块的开关状态。
 ``` {1}
 /b module list
 /base module list

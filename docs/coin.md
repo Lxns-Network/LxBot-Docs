@@ -15,6 +15,7 @@
 - Arcaea：[猜歌](/module/arcaea/#猜歌)
 - Arcaea：[世界模式](/module/arcaea/#世界模式)
 - 基础：[抽奖](/module/base/#抽奖)
+- 基础：[商店](/module/base/#商店)
 - 画板：[绘画](/module/paint/#绘画)
 - 公主连结：[抽卡](/module/pcr/#抽卡)
 - 公主连结：[角色竞猜](/module/pcr/#角色竞猜)
