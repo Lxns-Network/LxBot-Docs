@@ -9,7 +9,41 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 
 ---
 
+## 登录账号
+> 该指令与[绑定账号](/module/arcaea/#绑定账号)不互通。
+``` {1}
+/a user login [<账号> <密码>]
+/arc user login [<账号> <密码>]
+/arcaea user login [<账号> <密码>]
+```
+::: tip 注意
+登录前，请确保您已知晓该指令会占用一个设备数（有多设备需求可参考[自定义设备 ID](#自定义设备-id)），且该功能及其衍生功能可能会导致**封号**。
+
+在初次登录时，您需要提供账号与密码：`/a user login <账号> <密码>`。成功登录后，后台将会记录您的账号与密码仅用于之后的自动登录：`/a user login`。
+:::
+
+## 购买体力
+> 您需要先[登录账号](#登录账号)。
+``` {1}
+/a user purchase stamina
+/arc user purchase stamina
+/arcaea user purchase stamina
+```
+
+## 购买好友位
+> 您需要先[登录账号](#登录账号)。
+``` {1}
+/a user purchase friend
+/arc user purchase friend
+/arcaea user purchase friend
+```
+::: tip 注意
+该指令会将好友位购买至**上限**（15 个）。
+:::
+
 ## 同步存档
+> 您需要先[登录账号](#登录账号)。
+
 同步存档到软糖酱的数据库中。
 ``` {1}
 /a user save

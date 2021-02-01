@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "C:\\Users\\Lxns\\Documents\\Tencent Files\\2941383730\\FileRecv\\redive_cn.db",
+            "name": "redive_cn"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}

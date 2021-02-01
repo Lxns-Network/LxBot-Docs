@@ -4,8 +4,6 @@
 
 ::: tip 注意
 Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
-
-使用该工具表示您已知晓其违反了 [Arcaea 使用条款](https://arcaea.lowiro.com/zh/terms_of_service) 中的 **3.2-4** 与 **3.2-6**，因此造成的损失我们不予承担任何责任。
 :::
 
 ---
@@ -75,6 +73,16 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 /arcaea song <曲名>
 ```
 
+## 音频预览
+``` {1}
+/a preview <曲名> [截取区间]
+/arc preview <曲名> [截取区间]
+/arcaea preview <曲名> [截取区间]
+```
+`[截取区间]` 具体参数为 `<起始秒>-<结束秒>`，为空时默认游戏预览位置。
+
+`<结束秒>` 不能大于曲目长度，为 **0** 时默认歌曲总秒数。
+
 ## 曲目本地排行
 查询软糖酱缓存的成绩排行。
 ``` {1}
@@ -121,106 +129,34 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 - ……
 - 1 秒 5 个硬币
 
-个人每日最多正确回答 10 次。
+个人每日最多正确回答 10 次，回答次数与[曲绘竞猜](#曲绘竞猜)共通。
 :::
 
-## 控分计算
+## 曲绘竞猜
+<span class="span-group">群聊</span>
+``` {1}
+/a guessc
+/a guesscover
+/arc guessc
+/arc guesscover
+/arcaea guessc
+/arcaea guesscover
+```
+::: theorem 游玩方法
+每次发起竞猜消耗 1 个[硬币](/coin/)。**回复**软糖发送的消息即可回答问题，
+首个半分钟内正确回答者可获得 5 个硬币，回答的歌名请尽量规范。
+
+个人每日最多正确回答 10 次，回答次数与[猜歌](#猜歌)共通。
+:::
+
+## 控分计算（暂不可用）
 ``` {1}
 /a calcscore <物量> <目标分数>
 /arc calcscore <物量> <目标分数>
 /arcaea calcscore <物量> <目标分数>
 ```
 
-## 世界模式
-您可以在该功能中通过爬梯获取[硬币](/coin/)奖励。
-
-### 地图列表
-该指令会展示 `<地图名>`。
-``` {1}
-/a world map
-/arc world map
-/arcaea world map
-```
-
-### 地图详情
-``` {1}
-/a world map <地图名>
-/arc world map <地图名>
-/arcaea world map <地图名>
-```
-`<地图名>` 可通过[地图列表](#地图列表)获取。
-
-### 选择地图
-``` {1}
-/a world select <地图名>
-/arc world select <地图名>
-/arcaea world select <地图名>
-```
-`<地图名>` 可通过[地图列表](#地图列表)获取。
-
-### 楼层信息
-获取当前位置与限制、奖励详情。
-``` {1}
-/a world step
-/arc world step
-/arcaea world step
-```
-
-### 上传成绩
-> 您需要先[选择地图](#选择地图)。
-``` {1}
-/a world upload
-/arc world upload
-/arcaea world upload
-```
-
-::: theorem 提示
-该指令会消耗 1 点体力。
-:::
-
-### 体力详情
-> 您需要先[选择地图](#选择地图)。
-``` {1}
-/a world stamina
-/arc world stamina
-/arcaea world stamina
-```
-
-::: theorem 提示
-体力每半个小时恢复 1 点，满体力为 6 点。
-:::
-
-## 登录账号
-> 该指令与[绑定账号](#绑定账号)不互通。
-``` {1}
-/a login [<账号> <密码>]
-/arc login [<账号> <密码>]
-/arcaea login [<账号> <密码>]
-```
-::: tip 注意
-登录前，请确保您已知晓该指令会占用一个设备数，且该功能及其衍生功能可能会导致**封号**。
-
-在初次登录时，您需要提供账号与密码：`/a login <账号> <密码>`（<span class="span-friend">私聊</span>）。成功登录后，后台将会记录您的账号与密码仅用于之后的自动登录：`/a login`。
-:::
-
-## 购买体力
-> 您需要先[登录账号](#登录账号)。
-``` {1}
-/a purchase stamina
-/arc purchase stamina
-/arcaea purchase stamina
-```
-
-## 购买好友位
-> 您需要先[登录账号](#登录账号)。
-``` {1}
-/a purchase friend
-/arc purchase friend
-/arcaea purchase friend
-```
-::: tip 注意
-该指令会将好友位购买至**上限**（15 个）。
-:::
+## [世界模式](/module/arcaea/world/)
 
 ## ???
 `/user`
