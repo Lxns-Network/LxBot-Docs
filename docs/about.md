@@ -17,7 +17,7 @@
 - 湖上の氷精：RABiBOT 联动相关。
 
 ### GitHub 项目
-软糖酱的延续离不开以下开源项目：
+软糖酱的发展离不开以下开源项目：
 - [mamoe/mirai](https://github.com/mamoe/mirai)
 - [project-mirai/mirai-api-http](https://github.com/project-mirai/mirai-api-http)
 - [Lxns-Network/mirai-python-sdk](https://github.com/Lxns-Network/mirai-python-sdk)（基于 kuriyama 修改后的版本）

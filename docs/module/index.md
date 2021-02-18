@@ -8,7 +8,9 @@ sidebar: false
 
 索引页：
 - 基础：[Base](./base/)
+- 哔哩哔哩：[Bilibili](./bilibili/)
 - 漂流瓶：[Bottle](./bottle/)
+- 计算：[Calculate](./calculate/)
 - 指令转发：[Direct](./direct/)
 - 五子棋：[Gobang](./gobang/)
 - [Minecraft](./minecraft/)

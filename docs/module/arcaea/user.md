@@ -11,10 +11,8 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 
 ## 登录账号
 > 该指令与[绑定账号](/module/arcaea/#绑定账号)不互通。
-``` {1}
+```
 /a user login [<账号> <密码>]
-/arc user login [<账号> <密码>]
-/arcaea user login [<账号> <密码>]
 ```
 ::: tip 注意
 登录前，请确保您已知晓该指令会占用一个设备数（有多设备需求可参考[自定义设备 ID](#自定义设备-id)），且该功能及其衍生功能可能会导致**封号**。
@@ -24,18 +22,14 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 
 ## 购买体力
 > 您需要先[登录账号](#登录账号)。
-``` {1}
+```
 /a user purchase stamina
-/arc user purchase stamina
-/arcaea user purchase stamina
 ```
 
 ## 购买好友位
 > 您需要先[登录账号](#登录账号)。
-``` {1}
+```
 /a user purchase friend
-/arc user purchase friend
-/arcaea user purchase friend
 ```
 ::: tip 注意
 该指令会将好友位购买至**上限**（15 个）。
@@ -45,10 +39,8 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 > 您需要先[登录账号](#登录账号)。
 
 同步存档到软糖酱的数据库中。
-``` {1}
+```
 /a user save
-/arc user save
-/arcaea user save
 ```
 ::: tip 注意
 存档关联的是 QQ 账号，而不是 Arcaea 账号。
@@ -59,10 +51,8 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 ## 自动爬梯
 ### 已读警告
 > 您需要执行该指令才能使用其他功能。
-``` {1}
+```
 /a user world tos
-/arc user world tos
-/arcaea user world tos
 ```
 ::: details 警告内容
 警告：输入 `/a user world tos` 以继续使用该功能，继续使用即代表您已知晓您违反了 [Arcaea ToS](https://arcaea.lowiro.com/zh/terms_of_service)，且有极高几率会导致您的账号**永久封禁**。由此造成的任何损失与本机器人及机器人开发者无任何关系。
@@ -72,10 +62,8 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 
 ### 上传随机成绩
 > 该功能需要先[同步存档](#同步存档)用于成绩生成。
-``` {1}
+```
 /a user world upload <曲名> [难度]
-/arc user world upload <曲名> [难度]
-/arcaea user world upload <曲名> [难度]
 ```
 `[难度]` 可选值：
 - Beyond：`beyond` 、 `byd` 或 `byn`
@@ -94,13 +82,8 @@ Beyond 章节的残片深化与限时活动章节的源韵强化（如果有）�
 :::
 
 ### 偏差值
-``` {1}
+```
 /a user world conf offset [偏差值 <Note 评价>]
-/a user world config offset [偏差值 <Note 评价>]
-/arc user world conf offset [偏差值 <Note 评价>]
-/arc user world config offset [偏差值 <Note 评价>]
-/arcaea user world conf offset [偏差值 <Note 评价>]
-/arcaea user world config offset [偏差值 <Note 评价>]
 ```
 `[偏差值]` 具体参数为 `<最小值>-<最大值>`（如 **5-10**），为空时则查询当前设置的偏差值。
 
@@ -113,13 +96,8 @@ Beyond 章节的残片深化与限时活动章节的源韵强化（如果有）�
 
 ### 增益体力
 > 仅遗产章节。
-``` {1}
+```
 /a user world conf stamina_multiply [体力]
-/a user world config stamina_multiply [体力]
-/arc user world conf stamina_multiply [体力]
-/arc user world config stamina_multiply [体力]
-/arcaea user world conf stamina_multiply [体力]
-/arcaea user world config stamina_multiply [体力]
 ```
 `[体力]` 为空时则查询当前设置的增益体力，可选值：
 - 不增益（默认）：`1`
@@ -132,21 +110,14 @@ Beyond 章节的残片深化与限时活动章节的源韵强化（如果有）�
 :::
 
 ### 体力详情
-``` {1}
+```
 /a user world stamina
-/arc user world stamina
-/arcaea user world stamina
 ```
 
 ## 自定义设备 ID
 账号登录时用的设备唯一识别码。
-``` {1}
+```
 /a user conf device_id [设备 ID]
-/a user config device_id [设备 ID]
-/arc user conf device_id [设备 ID]
-/arc user config device_id [设备 ID]
-/arcaea user conf device_id [设备 ID]
-/arcaea user config device_id [设备 ID]
 ```
 `[设备 ID]` 为 UUID（如 **A4CA8FBF-1306-44C8-8ABD-C74954EA0EFD**），为空时则查询当前的设置。
 

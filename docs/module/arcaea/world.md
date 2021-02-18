@@ -8,42 +8,32 @@
 
 ## 地图列表
 该指令会展示 `<地图名>`。
-``` {1}
+```
 /a world map
-/arc world map
-/arcaea world map
 ```
 
 ## 地图详情
-``` {1}
+```
 /a world map <地图名>
-/arc world map <地图名>
-/arcaea world map <地图名>
 ```
 `<地图名>` 可通过[地图列表](#地图列表)获取。
 
 ## 选择地图
-``` {1}
+```
 /a world select <地图名>
-/arc world select <地图名>
-/arcaea world select <地图名>
 ```
 `<地图名>` 可通过[地图列表](#地图列表)获取。
 
 ## 楼层信息
 获取当前位置与限制、奖励详情。
-``` {1}
+```
 /a world step
-/arc world step
-/arcaea world step
 ```
 
 ## 上传成绩
 > 您需要先[选择地图](#选择地图)。
-``` {1}
+```
 /a world upload
-/arc world upload
-/arcaea world upload
 ```
 
 ::: theorem 提示
@@ -52,10 +42,8 @@
 
 ## 体力详情
 > 您需要先[选择地图](#选择地图)。
-``` {1}
+```
 /a world stamina
-/arc world stamina
-/arcaea world stamina
 ```
 
 ::: theorem 提示

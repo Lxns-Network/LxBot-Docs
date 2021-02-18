@@ -8,15 +8,13 @@
 ---
 
 ## 创建房间
-``` {1}
+```
 /f create
-/flyingchess create
 ```
 
 ## 加入房间
-``` {1}
+```
 /f join <房间 ID>
-/flyingchess join <房间 ID>
 ```	
 ::: tip 提示
 当房间人数不小于 2 人时房间创建者可直接[随机骰子](#随机骰子)，可中途加入。
@@ -24,11 +22,8 @@
 
 ## 删除房间
 > 您需要在一个房间中。
-``` {1}
+```
 /f stop
-/f exit
-/flyingchess stop
-/flyingchess exit
 ```
 ::: tip 注意
 房间内任意一人执行此指令会**删除**房间。
@@ -36,20 +31,16 @@
 
 ## 获取棋盘
 该指令用于图片无法正常获取时的重试方案。
-``` {1}
+```
 /f get
-/flyingchess get
 ```
 
 ## 随机骰子
 > 您需要在一个房间中，且已到您的回合。
 
 返回一个随机的点数。
-``` {1}
+```
 /f rand
-/f random
-/flyingchess rand
-/flyingchess random
 ```
 ::: tip 注意
 执行完该指令后您需要执行[起飞或行动](#起飞或行动)才能轮到下一回合。如果您没有棋子可操作，仍然需要执行指令以继续游戏。
@@ -61,15 +52,13 @@
 > 您需要在一个房间中，且需要预先[随机骰子](#随机骰子)。
 
 将随机的点数生效。
-``` {1}
+```
 /f run <棋子 ID>
-/flyingchess run <棋子 ID>
 ```
 `<棋子 ID>` 需要在图片中寻找，范围为 0 至 3。
 
 ## 清空所有房间
 <span class="span-bot-admin">Bot 管理员</span>
-``` {1}
+```
 /f clear
-/flyingchess clear
 ```
