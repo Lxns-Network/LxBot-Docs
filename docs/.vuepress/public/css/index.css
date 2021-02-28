@@ -10,6 +10,12 @@
 	padding: 2px 8px;
 	border-radius: 4px;
 }
+.span-discord {
+	background: rgb(114,137,218);
+	color: white;
+	padding: 2px 8px;
+	border-radius: 4px;
+}
 .span-admin {
 	background: mediumseagreen;
 	color: white;

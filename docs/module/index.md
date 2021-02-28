@@ -24,6 +24,7 @@ sidebar: false
 - 音游：[Rhythm](./rhythm/)
   - [Arcaea](./arcaea/)
   - [Phigros](./phigros/)
+  - [Orzmic](/module/orzmic/)
   - [osu!droid](./osudroid/)
 - 以图搜图：[Search](./search/)
 - 翻译：[Translate](./translate/)

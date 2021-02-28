@@ -8,5 +8,6 @@ sidebar: false
 
 索引页：
 - [Arcaea](/module/arcaea/)
+- [Orzmic](/module/orzmic/)
 - [osu!droid](/module/osudroid/)
 - [Phigros](/module/phigros/)

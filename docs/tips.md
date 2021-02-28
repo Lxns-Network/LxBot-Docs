@@ -76,6 +76,8 @@
 
 <span class="span-friend">私聊</span>：该指令仅私聊可用。
 
+<span class="span-discord">Discord</span>：该指令仅 Discord 版 Bot 可用。
+
 <span class="span-admin">群管理员</span>：该指令仅本群管理员可用。
 
 <span class="span-group">群主</span>：该指令仅本群群主可用。

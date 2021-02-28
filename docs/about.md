@@ -2,15 +2,15 @@
 
 ---
 
-软糖酱（LxBot）是一款完全公益性质的功能型 QQ 机器人。
+软糖酱（LxBot）是一款完全公益性质的功能型机器人。
 
 ## 特别鸣谢
 > 排名不分先后。
 
-### Phigros 谱面定数测定组
-为 Phigros 模块提供曲目数据。
+### Phigros / Orzmic 谱面定数测定组
+为 Phigros、Orzmic 模块提供曲目数据。
 
-成员：Crazy_Bull、SystemKr、Tomorrowgas、东城eastown、鸡块等
+成员：Crazy_Bull、SystemKr、Tomorrowgas、东城eastown、Nugget 等
 
 ### 个人（技术支持）
 - EdrowsLuo：为 osu!droid 模块提供相关接口。

@@ -1,15 +1,11 @@
-# 计算
+# Orzmic
 <span class="span-friend">私聊</span>
 <span class="span-group">群聊</span>
 <span class="span-discord">Discord</span>
 
 ---
 
-## 计算
+## 曲目详情
 ```
-/c <表达式>
+/orz song <曲名>
 ```
-`<表达式>` 可以为：
-- 简单的计算式
-- Wolfram 语法
-- Wolfram|Alpha 语法

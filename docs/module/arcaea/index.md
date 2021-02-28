@@ -1,6 +1,7 @@
 # Arcaea
 <span class="span-friend">私聊</span>
 <span class="span-group">群聊</span>
+<span class="span-discord">Discord</span>
 
 ::: tip 注意
 Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。

@@ -1,6 +1,7 @@
 # 基础模块
 <span class="span-friend">私聊</span>
 <span class="span-group">群聊</span>
+<span class="span-discord">Discord</span>
 
 软糖酱最基础的运行模块。
 
