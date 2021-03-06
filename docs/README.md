@@ -13,12 +13,8 @@ title: 帮助文档
 Illustrator: [PIKARU闪闪](https://bcy.net/u/104986737835)
 :::
 
-::: warning 通告
-软糖酱主账号已暂时停止运营。如需使用，请进入反馈群添加私聊专用机（二号机）账号。
-:::
-
 # 帮助文档
-> 适用版本号：v2.1.3
+> 适用版本号：v2.1.4
 
 本文档将指引您如何获取并使用 LxBot。
 
@@ -36,7 +32,7 @@ Illustrator: [PIKARU闪闪](https://bcy.net/u/104986737835)
   - 各类竞猜游戏
 - 物品、商店系统更新。
 - 优化的指令处理逻辑。
-- 适配 [Discord](#获取-Discord-机器人)。
+- 适配 [Discord](#获取-discord-机器人)。
 
 ## 获取 QQ 机器人
 > 如在私聊使用请忽略第 2 步。
@@ -61,10 +57,10 @@ Illustrator: [PIKARU闪闪](https://bcy.net/u/104986737835)
 
 ## 获取 Discord 机器人 <Badge type="warning" text="Beta" />
 ::: tip 注意
-Discord 机器人的用户系统与 QQ 分离，且仍处于适配阶段，一部分功能无法正常使用。
+Discord 端仍处于适配阶段，一部分功能无法正常使用。您可以在 QQ 使用 `/b discord` 绑定 Discord 账号，这样数据可以互通。
 :::
 
-方式一：[添加软糖官方服务器](https://discord.gg/GcnCYAEXtR)
+方式一：[添加软糖官方服务器](https://discord.gg/YVXA6jpJkF)
 
 方式二：[通过 OAuth2 获取](https://discord.com/oauth2/authorize?client_id=815104216372346881&permissions=2148005952&scope=bot)（不推荐，无法获取及时通知）
 

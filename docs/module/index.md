@@ -21,11 +21,11 @@ sidebar: false
 - [Pixiv](./pixiv/)
 - 二维码：[QRC](./qrc/)
 - 发言排行：[Rank](./rank/)
-- 音游：[Rhythm](./rhythm/)
+- 音游：
   - [Arcaea](./arcaea/)
   - [Phigros](./phigros/)
-  - [Orzmic](/module/orzmic/)
   - [osu!droid](./osudroid/)
+  - [Orzmic](/module/orzmic/)
 - 以图搜图：[Search](./search/)
 - 翻译：[Translate](./translate/)
 - 文本转语音：[TTS](./tts/)
