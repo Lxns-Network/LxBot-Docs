@@ -26,6 +26,7 @@ sidebar: false
   - [Phigros](./phigros/)
   - [osu!droid](./osudroid/)
   - [Orzmic](/module/orzmic/)
+  - [SDVX](/module/sdvx/)
 - 以图搜图：[Search](./search/)
 - 翻译：[Translate](./translate/)
 - 文本转语音：[TTS](./tts/)
