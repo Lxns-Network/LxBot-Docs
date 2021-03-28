@@ -13,7 +13,8 @@
 成员：Crazy_Bull、SystemKr、Tomorrowgas、东城eastown、Nugget 等
 
 ### 个人（技术支持）
-- chinosk：为 SDVX 模块提供曲目数据。
+- mi3ka: 为 SDVX 模块提供 SDVX 4 曲目数据等支持。
+- chinosk：为 SDVX 模块提供 SDVX 5 曲目数据。
 - EdrowsLuo：为 osu!droid 模块提供相关接口。
 - 湖上の氷精：RABiBOT 联动相关。
 

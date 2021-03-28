@@ -3,6 +3,10 @@
 <span class="span-group">群聊</span>
 <span class="span-discord">Discord</span>
 
+::: warning 注意
+该模块暂时停止维护。
+:::
+
 ---
 
 ## 曲目详情
