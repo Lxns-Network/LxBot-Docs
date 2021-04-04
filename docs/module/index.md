@@ -12,6 +12,7 @@ sidebar: false
 - 漂流瓶：[Bottle](./bottle/)
 - 计算：[Calculate](./calculate/)
 - 指令转发：[Direct](./direct/)
+- 代码运行：[Execute](./execute/)
 - 五子棋：[Gobang](./gobang/)
 - [Minecraft](./minecraft/)
 - 网络工具：[Network](./network/)
