@@ -100,3 +100,54 @@ func main() {
     fmt.Println("Hello, World!");
 }
 ```
+
+## F#
+```fs
+printfn "Hello, World!"
+```
+
+## R
+```r
+print("Hello, World!")
+```
+
+## Pascal
+```pascal
+program Hello;
+begin
+  writeln ('Hello, world!')
+end.
+```
+
+## Lisp
+```lisp
+(write-line "Hello, World")
+```
+
+## Erlang
+```erlang
+% escript will ignore the first line
+
+main(_) ->
+    io:format("Hello, World!~n").
+```
+
+## Swift
+```swift
+print("Hello, World!")
+```
+
+## Brainfuck
+```brainfuck
+>++++++++++[<+++++++>-]<++.>++++++++++[<++>-]<+++++++++.+++++++..+++.>++++++++++[<------>-]<-------.>++++++++++[<->-]<--.>++++++++++[<+++++>-]<+++++.>++++++++++[<++>-]<++++.+++.------.--------.>++++++++++[<------>-]<-------.
+```
+
+## Groovy
+```groovy
+println 'Hello, World!'
+```
+
+## Bash
+```bash
+echo "Hello, World!"
+```

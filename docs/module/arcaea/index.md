@@ -107,8 +107,11 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 ## 曲绘竞猜
 <span class="span-group">群聊</span>
 ```
-/a guessc
+/a guessc [难度]
 ```
+`[难度]` 可选值：
+- 简单（默认）：`easy`
+- 困难：`hard`
 ::: theorem 游玩方法
 每次发起竞猜消耗 1 个[硬币](/coin/)。**回复**软糖发送的消息即可回答问题，
 首个半分钟内正确回答者可获得 5 个硬币，回答的歌名请尽量规范。

@@ -22,5 +22,16 @@
 - Kotlin Script：`kts`
 - Rust：`rs`
 - Golang：`go`
+- F#：`fs`
+- R：`r`
+- Pascal：`pas`
+- Lisp：`lisp`
+- Erlang：`erl`
+- Swift：`swift`
+- Brainfuck：`bf`
+- Groovy：`groovy`
+- Bash：`sh`
+- Ruby（暂不可用）：`rb`
+- Scala（暂不可用）：`scala`
 
 ## [示例](./usage/)

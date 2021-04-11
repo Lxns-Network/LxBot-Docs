@@ -13,13 +13,16 @@
 /bottle throw <内容>
 ```
 ::: tip 注意
-每天只能投掷 3 个漂流瓶。
+每天只能投掷 5 个漂流瓶。
 :::
 
 ## 捡取
 ```
 /bottle pick
 ```
+::: tip 注意
+每天只能捡取 15 个漂流瓶。
+:::
 
 ## 设置群可见
 <span class="span-admin">群管理员</span>

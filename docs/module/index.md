@@ -11,6 +11,7 @@ sidebar: false
 - 哔哩哔哩：[Bilibili](./bilibili/)
 - 漂流瓶：[Bottle](./bottle/)
 - 计算：[Calculate](./calculate/)
+- 内容鉴别：[Detect](./detect/)
 - 指令转发：[Direct](./direct/)
 - 代码运行：[Execute](./execute/)
 - 五子棋：[Gobang](./gobang/)

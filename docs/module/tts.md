@@ -13,3 +13,8 @@
 - en-AU：`au`
 - en-US：`us`
 - fr-FR：`fr`
+
+## 转换（其它）
+```
+/tts other <内容>
+```
