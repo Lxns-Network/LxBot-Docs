@@ -36,10 +36,6 @@
 :::
 
 ## 指令宽松解析
-::: theorem 你知道吗？
-旧版的指令解析非常严格，大小写敏感且不支持多余空格的处理。
-:::
-
 大小写不敏感：
 ```
 /Rank THiS 1d
@@ -57,6 +53,11 @@
 ```
 也能正常处理。
 
+## 链接消息
+由软糖酱主动发送，是一种为了防止风控的措施，同时也可以降低对群聊正常聊天的影响。
+
+形如：[https://bot-api.lxns.net/bot-message/1151290186/2941383730/642015](https://bot-api.lxns.net/bot-message/1151290186/2941383730/642015)
+
 ## Banner
 通常出现在文档的指令前面，表示可以使用的对象。
 
@@ -64,7 +65,7 @@
 
 <span class="span-friend">私聊</span>：该指令仅私聊可用。
 
-<span class="span-discord">Discord</span>：该指令仅 Discord 版 Bot 可用。
+<span class="span-discord">DC</span>：该指令仅 Discord 版 Bot 可用。
 
 <span class="span-admin">群管理员</span>：该指令仅本群管理员可用。
 

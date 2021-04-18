@@ -14,7 +14,7 @@ Illustrator: [PIKARU闪闪](https://bcy.net/u/104986737835)
 :::
 
 # 帮助文档
-> 适用版本号：v2.1.8
+> 适用版本号：v2.2.1
 
 本文档将指引您如何获取并使用 LxBot。
 
@@ -62,7 +62,7 @@ Discord 端仍处于适配阶段，一部分功能无法正常使用。您可以
 
 方式一：[添加软糖官方服务器](https://discord.gg/YVXA6jpJkF)
 
-方式二：[通过 OAuth2 获取](https://discord.com/oauth2/authorize?client_id=815104216372346881&permissions=2148005952&scope=bot)（不推荐，无法获取及时通知）
+方式二：[通过 OAuth2 获取](https://discord.com/oauth2/authorize?client_id=815104216372346881&permissions=2148005952&scope=bot)
 
 ## 使用机器人
 使用本机器人即代表您同意软糖酱的[使用条款](/terms-of-use/)。

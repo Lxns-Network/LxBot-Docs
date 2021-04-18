@@ -1,7 +1,7 @@
 # 网络工具
 <span class="span-friend">私聊</span>
 <span class="span-group">群聊</span>
-<span class="span-discord">Discord</span>
+<span class="span-discord">DC</span>
 
 ::: tip 注意
 本模块返回的结果仅供参考。

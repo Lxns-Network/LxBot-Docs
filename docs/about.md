@@ -4,6 +4,11 @@
 
 软糖酱（LxBot）是一款完全公益性质的功能型机器人。
 
+## 联系我们
+QQ 群：**1151290186**
+
+Discord 服务器：[落雪咖啡屋](https://discord.gg/YVXA6jpJkF)
+
 ## 特别鸣谢
 > 排名不分先后。
 
@@ -13,16 +18,18 @@
 成员：Crazy_Bull、SystemKr、Tomorrowgas、东城eastown、Nugget 等
 
 ### 个人（技术支持）
-- mi3ka: 为 SDVX 模块提供 SDVX 4 曲目数据等支持。
+- mi3ka：为 SDVX 模块提供 SDVX 4 曲目数据等支持。
 - chinosk：为 SDVX 模块提供 SDVX 5 曲目数据。
 - EdrowsLuo：为 osu!droid 模块提供相关接口。
 - 湖上の氷精：RABiBOT 联动相关。
 
 ### GitHub 项目
 软糖酱的发展离不开以下开源项目：
-- [mamoe/mirai](https://github.com/mamoe/mirai)
-- [project-mirai/mirai-api-http](https://github.com/project-mirai/mirai-api-http)
-- [Lxns-Network/mirai-python-sdk](https://github.com/Lxns-Network/mirai-python-sdk)（基于 kuriyama 修改后的版本）
+- 协议支持：
+  - [mamoe/mirai](https://github.com/mamoe/mirai)
+  - [project-mirai/mirai-api-http](https://github.com/project-mirai/mirai-api-http)
+  - [Lxns-Network/mirai-python-sdk](https://github.com/Lxns-Network/mirai-python-sdk)（基于 kuriyama 修改后的版本）
+- Arcaea 模块查分：[TheSnowfield/BotArcAPI](https://github.com/TheSnowfield/BotArcAPI)
 
 与每位用户的支持。
 
