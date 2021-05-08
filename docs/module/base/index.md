@@ -61,17 +61,37 @@
 ```
 /b sleep [小时]
 ```
-`[小时]` 默认值为 **6**。
+`[小时]` 为浮点数，默认值为 **8**。
 
 ## 运行状态
 ```
 /b stat
 ```
 
-### 打水漂
+## 打水漂
 ```
 /b dap
 ```
+
+## 语言
+使用 `/b help base.language` 查询内置帮助。
+
+### 列表
+```
+/b lang list
+```
+
+### 切换
+切换将会实时生效，但仅针对部分已翻译的模块。
+```
+/b lang [语言]
+```
+`[语言]` 为空时返回当前语言，可选值：
+- 简体中文（默认）：**zh**
+- 繁體中文：**tw**
+- English：**en**
+- 日本語：**jp**
+- 한국어：**kr**
 
 ## Discord
 用于 QQ 与 Discord 的数据互通。
@@ -139,7 +159,7 @@
 `<目标>` 为 **@** 或 **QQ 号**。
 
 ## 物品
-通过[硬币](/coin/)在[商店](#商店)购买或其他途径获取的内容，可以用来使用一些功能。
+通过[硬币](/coin/)在[商店](#商店)购买或其他途径获取的内容，可以用来使用一些功能。使用 `/b help base.item` 查询内置帮助。
 
 ### 库存
 ```
@@ -158,6 +178,7 @@
 ```
 
 ## 商店
+使用 `/b help base.shop` 查询内置帮助。
 
 ### 商品列表
 ```
@@ -173,6 +194,7 @@
 `[数量]` 默认为 **1**。
 
 ## 用户组
+使用 `/b help base.member` 查询内置帮助。
 
 ### 查询
 查询目标账号的用户组。
@@ -200,17 +222,20 @@
 ## 群权限
 <span class="span-group">群聊</span>
 
+使用 `/b help base.group` 查询内置帮助。
+
 ### 选项
 <span class="span-admin">群管理员</span>
 <span class="span-group">群主</span>
 <span class="span-bot-admin">Bot 管理员</span>
 <span class="span-bot-helper">Bot 协助者</span>
 
-该部分在旧版本中指的是[模块](#模块)。
+使用 `/b help base.group.conf` 查询内置帮助。
+
 ```
 /b group conf <选项>
 ```
-`<选项>` 可选值，使用 `/b help base.group.conf` 查询内置帮助：
+`<选项>` 可选值：
 - 新成员：`welcome [详细参数]`
 - 成员退群：`leave [详细参数]`
   <br>`[详细参数]` 可选值：
@@ -241,7 +266,7 @@
 ## 模块
 <span class="span-group">群聊</span>
 
-该功能用于开关指定群聊的模块。
+用于开关群聊的模块，使用 `/b help base.module` 查询内置帮助。
 
 ### 设置
 <span class="span-admin">群管理员</span>
