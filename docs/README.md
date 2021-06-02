@@ -14,7 +14,7 @@ Illustrator: [PIKARU闪闪](https://bcy.net/u/104986737835)
 :::
 
 # 帮助文档
-> 适用版本号：v2.2.3
+> 适用版本号：v2.2.6
 
 本文档将指引您如何获取并使用 LxBot。
 
@@ -41,18 +41,19 @@ Illustrator: [PIKARU闪闪](https://bcy.net/u/104986737835)
 
 3. 在反馈群中输入 `/b ping` 查询目前可用的软糖酱
 4. 添加目标软糖酱好友并拉入**已通过白名单审核**的群中
+   <br>如果无法添加则代表软糖酱好友已满，请**从群聊中选择**软糖酱拉入
    <br>*注意：将软糖酱拉入非白名单群将会自动拒绝。*
    <br>[我拥有白名单权限，但尝试将软糖酱拉入群中并没有反应](/faq/#我拥有白名单权限，但尝试将软糖酱拉入群中并没有反应)
 5. 开始使用，参见 [使用机器人](#使用机器人)
 
 ## 获取 Discord 机器人
 ::: theorem 提示
-在 QQ 使用 `/b discord` 绑定 Discord 账号以互通数据。
+在 QQ 私聊软糖输入 `/dc` 绑定 Discord 账号以互通数据。
 :::
 
 方式一：[加入软糖官方服务器](https://discord.gg/YVXA6jpJkF)
 
-方式二：[通过 OAuth2 添加到自己的服务器](https://discord.com/oauth2/authorize?client_id=815104216372346881&permissions=2148005952&scope=bot)
+方式二（[暂不可用](http://dis.gd/bot-verification)）：[通过 OAuth2 添加到自己的服务器](https://discord.com/oauth2/authorize?client_id=815104216372346881&permissions=2148005952&scope=bot)
 
 ## 使用机器人
 使用本机器人即代表您同意软糖酱的[使用条款](/terms-of-use/)。

@@ -3,6 +3,10 @@
 <span class="span-group">群聊</span>
 <span class="span-discord">DC</span>
 
+::: warning 注意
+该功能暂时停止服务。
+:::
+
 ::: tip 注意
 本模块返回的结果仅供参考。
 :::

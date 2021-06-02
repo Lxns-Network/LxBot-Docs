@@ -35,7 +35,7 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 - Past：`past` 或 `pst`
 
 ## 查询 Best 30
-返回所有 Best 30 成绩、计算后的 Best 30 与 Recent 10 均值。
+返回所有 Best 30 成绩、Best 31 至 33 成绩、计算后的 Best 30 与 Recent Top 10 均值。
 ```
 /a b30
 ```
@@ -58,11 +58,15 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 
 ## 音频预览
 ```
-/a preview <曲名> [截取区间]
+/a play <曲名> [截取区间]
 ```
 `[截取区间]` 具体参数为 `<起始秒>-<结束秒>`，为空时默认游戏预览位置。
 
 `<结束秒>` 不能大于曲目长度，为 **0** 时默认歌曲总秒数。
+
+::: tip 注意
+在 Discord 环境下，该功能需要[语音](/module/discord/#语音)，且不支持 `[截取区间]`。
+:::
 
 ## 曲目本地排行
 查询软糖酱缓存的成绩排行。
@@ -84,6 +88,12 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
   - LxBot（默认）
   - RABiBOT v2
   <br>*仅支持[查询最近成绩](./#查询最近成绩)。*
+
+## 定数搜索
+通过定数搜索曲目。
+```
+/a find <定数>
+```
 
 ## 猜歌
 <span class="span-group">群聊</span>

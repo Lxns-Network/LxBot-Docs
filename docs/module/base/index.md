@@ -93,19 +93,6 @@
 - 日本語：**jp**
 - 한국어：**kr**
 
-## Discord
-用于 QQ 与 Discord 的数据互通。
-
-### 绑定
-```
-/b discord
-```
-
-### 解绑
-```
-/b discord remove
-```
-
 ## [硬币](/coin/)
 可以使用[签到](#签到)获取硬币，使用 `/b help base.coin` 查询内置帮助。
 

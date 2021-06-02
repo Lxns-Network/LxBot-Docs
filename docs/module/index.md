@@ -13,6 +13,7 @@ sidebar: false
 - 计算：[Calculate](./calculate/)
 - 内容鉴别：[Detect](./detect/)
 - 指令转发：[Direct](./direct/)
+- [Discord](./discord/)
 - 代码运行：[Execute](./execute/)
 - 五子棋：[Gobang](./gobang/)
 - [Minecraft](./minecraft/)
@@ -32,6 +33,7 @@ sidebar: false
 - 以图搜图：[Search](./search/)
 - 翻译：[Translate](./translate/)
 - 文本转语音：[TTS](./tts/)
+- [YouTube](./youtube/)
 
 在上述链接中**黑底白字**的为指令，通过指令可以与机器人进行交互。
 ::: theorem 提示
