@@ -63,11 +63,17 @@
 
 <span class="span-group">群聊</span>：该指令仅群聊可用。
 
+> Discord 中指服务器。
+
 <span class="span-friend">私聊</span>：该指令仅私聊可用。
+
+> Discord 中指 DM（Direct Message）。
 
 <span class="span-discord">DC</span>：该指令仅 Discord 版 Bot 可用。
 
 <span class="span-admin">群管理员</span>：该指令仅本群管理员可用。
+
+> 在 Discord 中，拥有**通用服务器权限 > 管理服务器**或**高级权限 > 管理员**身份组的用户为 <span class="span-admin">群管理员</span> 。
 
 <span class="span-group">群主</span>：该指令仅本群群主可用。
 

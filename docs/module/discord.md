@@ -4,18 +4,37 @@
 
 ---
 
-## 绑定账号
-<span class="span-friend">私聊</span>
+## 服务器
+<span class="span-discord">DC</span>
 
-用于 QQ 与 Discord 的数据互通。
+### 切换默认语言
+切换将会实时生效，但仅针对部分已翻译的模块。
 ```
-/dc
+/dc server lang [语言]
 ```
+`[语言]` 为空时返回当前语言，可选值：
+- 简体中文（默认）：**zh**
+- 繁體中文：**tw**
+- English：**en**
+- 日本語：**jp**
+- 한국어：**kr**
+- Français：**fr**
 
-## 解绑账号
+## 频道
+<span class="span-discord">DC</span>
+
+### 切换默认语言
+切换将会实时生效，但仅针对部分已翻译的模块。
 ```
-/dc remove
+/dc channel lang [语言]
 ```
+`[语言]` 为空时返回当前语言，可选值：
+- 简体中文（默认）：**zh**
+- 繁體中文：**tw**
+- English：**en**
+- 日本語：**jp**
+- 한국어：**kr**
+- Français：**fr**
 
 ## 语音
 <span class="span-discord">DC</span>
@@ -43,4 +62,17 @@
 ### 清空播放队列
 ```
 /dc play clear
+```
+
+## 绑定账号
+<span class="span-friend">私聊</span>
+
+用于 QQ 与 Discord 的数据互通。
+```
+/dc
+```
+
+## 解绑账号
+```
+/dc remove
 ```

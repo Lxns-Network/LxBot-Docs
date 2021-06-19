@@ -9,6 +9,8 @@ QQ 群：**1151290186**
 
 Discord 服务器：[落雪咖啡屋](https://discord.gg/YVXA6jpJkF)
 
+哔哩哔哩：[@软糖酱_Official](https://space.bilibili.com/1432317833/dynamic)
+
 ## 特别鸣谢
 > 排名不分先后。
 
@@ -19,9 +21,19 @@ Discord 服务器：[落雪咖啡屋](https://discord.gg/YVXA6jpJkF)
 
 ### 个人（技术支持）
 - mi3ka：为 SDVX 模块提供 SDVX 4 曲目数据等支持。
-- chinosk：为 SDVX 模块提供 SDVX 5 曲目数据。
+- chinosk：为 SDVX 模块提供 SDVX 5, 6 曲目数据。
 - EdrowsLuo：为 osu!droid 模块提供相关接口。
 - 湖上の氷精：RABiBOT 联动相关。
+
+### 个人（翻译支持）
+[![Crowdin](https://badges.crowdin.net/lxbot/localized.svg)](https://crowdin.com/project/lxbot)
+
+- 繁體中文：cat10032、tnk351、gsycl2004、huakaihualuo、NaginoRei、SFD、SY91419
+- English：ZetaSiro、gsycl2004、bittersweet、huakaihualuo、jasonren0403、LeseningNano、M14、MimaGlows、Mcxiaowei、robisntnk、SkyEyeFAST、SongU、t404owo、buliyv1388、Kinrito、WhoAmI.、Keldeoroks、SFD、SY91419
+- 日本語：hakatanoshio_o、kuri_owo、M14、Mafuyu17、Rep_Hirricane、SongU
+- 한국어：TechKor、Nugget、PIIGEON、jengurai
+- Français：Sennzai
+- Deutsche：t404owo
 
 ### GitHub 项目
 软糖酱的发展离不开以下开源项目：

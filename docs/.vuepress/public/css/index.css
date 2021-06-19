@@ -1,37 +1,43 @@
 .span-friend {
 	background: lightblue;
 	color: white;
-	padding: 2px 8px;
+	padding: 0px 8px;
+	display: inline-block;
 	border-radius: 4px;
 }
 .span-group {
 	background: orange;
 	color: white;
-	padding: 2px 8px;
+	padding: 0px 8px;
+	display: inline-block;
 	border-radius: 4px;
 }
 .span-discord {
 	background: rgb(114,137,218);
 	color: white;
-	padding: 2px 8px;
+	padding: 0px 8px;
+	display: inline-block;
 	border-radius: 4px;
 }
 .span-admin {
 	background: mediumseagreen;
 	color: white;
-	padding: 2px 8px;
+	padding: 0px 8px;
+	display: inline-block;
 	border-radius: 4px;
 }
 .span-bot-admin {
 	background-color: crimson;
 	color: white;
-	padding: 2px 8px;
+	padding: 0px 8px;
+	display: inline-block;
 	border-radius: 4px;
 }
 .span-bot-helper {
 	background-color: lightcoral;
 	color: white;
-	padding: 2px 8px;
+	padding: 0px 8px;
+	display: inline-block;
 	border-radius: 4px;
 }
 .main-logo {

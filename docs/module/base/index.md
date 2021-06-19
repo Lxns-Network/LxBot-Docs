@@ -92,6 +92,7 @@
 - English：**en**
 - 日本語：**jp**
 - 한국어：**kr**
+- Français：**fr**
 
 ## [硬币](/coin/)
 可以使用[签到](#签到)获取硬币，使用 `/b help base.coin` 查询内置帮助。

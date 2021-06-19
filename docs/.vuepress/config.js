@@ -25,7 +25,7 @@ module.exports = ctx => ({
     }
   },
   plugins: [
-	['@vuepress/back-to-top', true],
+	  ['@vuepress/back-to-top', true],
     [
       '@vuepress/google-analytics',
       {
@@ -40,12 +40,12 @@ module.exports = ctx => ({
     ['@vuepress/search', { // 搜索
       searchMaxSuggestions: 10
     }],
-	['@vuepress/pwa', { // 离线页面
+	  ['@vuepress/pwa', { // 离线页面
       serviceWorker: true,
       updatePopup: {
         message: "发现新内容可用。",
         buttonText: "刷新",
-	  }
+	    }
     }],
     ['vuepress-plugin-container', {
       type: 'right',

@@ -21,7 +21,7 @@
 
 示例指令：
 ```
-/direct add /a info\1
+/d add /a info\1
 ^查(.*)$
 ```
 
@@ -39,5 +39,4 @@
 ## 转发列表
 ```
 /d list
-/direct list
 ```
