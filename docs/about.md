@@ -11,6 +11,8 @@ Discord 服务器：[落雪咖啡屋](https://discord.gg/YVXA6jpJkF)
 
 哔哩哔哩：[@软糖酱_Official](https://space.bilibili.com/1432317833/dynamic)
 
+Twitter（英文）：[@LxBot_Official](https://twitter.com/LxBot_Official)
+
 ## 特别鸣谢
 > 排名不分先后。
 

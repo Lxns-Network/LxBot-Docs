@@ -43,7 +43,7 @@
 
 求导函数：
 - 一阶导数：`derivative of _`
-- 二阶导数：`second derivatice of _`
+- 二阶导数：`second derivative of _`
 
 求不定积分：`indefinite integral of _` 或 `integrate _`
 
@@ -60,6 +60,8 @@
 求极限：`lim x->0 _`
 
 级数求和：`sum _ from x=_ to _`
+
+泰勒级数：`taylor series x`
 
 ## 向量
 绘制向量：`vector{}`

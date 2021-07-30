@@ -49,6 +49,10 @@
 /pgr tip
 ```
 
+::: theorem 提示
+设置不同[语言](/module/base/#语言)返回 Tips 的语言也是不一样的。
+:::
+
 ## 猜歌
 <span class="span-group">群聊</span>
 ```

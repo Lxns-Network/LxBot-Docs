@@ -31,6 +31,7 @@
 - Brainfuck：`bf`
 - Groovy：`groovy`
 - Bash：`sh`
+- NASM（64 位）：`asm`
 - Ruby（暂不可用）：`rb`
 - Scala（暂不可用）：`scala`
 
