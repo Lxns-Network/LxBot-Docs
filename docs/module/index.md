@@ -11,6 +11,7 @@ sidebar: false
 - 哔哩哔哩：[Bilibili](./bilibili/)
 - 漂流瓶：[Bottle](./bottle/)
 - 计算：[Calculate](./calculate/)
+- 象棋：[CNChess](./cnchess/)
 - 指令转发：[Direct](./direct/)
 - [Discord](./discord/)
 - 代码运行：[Execute](./execute/)

@@ -9,10 +9,6 @@ title: 帮助文档
 }
 </style>
 
-::: right
-Illustrator: [PIKARU闪闪](https://bcy.net/u/104986737835)
-:::
-
 # 帮助文档
 > 适用版本号：v2.3.2
 
@@ -21,7 +17,7 @@ Illustrator: [PIKARU闪闪](https://bcy.net/u/104986737835)
 **软糖酱** 为 LxBot 对外公开的昵称，本文档其它部分将使用此昵称。
 
 ::: tip 公告
-我们正在进行文档的多语言翻译，欢迎前往 [Crowdin](https://crwd.in/lxbot/) 贡献翻译。
+我们正在进行文档的多语言翻译，欢迎前往 [Crowdin](https://crwd.in/lxbot/) 贡献翻译。在翻译时，请优先翻译 `zh.json` 与 `help.json` 文件。
 :::
 
 ## 获取 QQ 机器人
