@@ -5,7 +5,9 @@
 软糖酱（LxBot）是一款完全公益性质的功能型机器人。
 
 ## 联系我们
-QQ 群：**1151290186**
+QQ 群：
+- 一群（已满）：**1151290186**
+- 二群：**197573249**
 
 Discord 服务器：[落雪咖啡屋](https://discord.gg/YVXA6jpJkF)
 
@@ -59,4 +61,6 @@ Twitter（英文）：[@LxBot_Official](https://twitter.com/LxBot_Official)
 与每位用户的支持。
 
 ## 赞助
-机器人的维护及运营需要费用，您可以通过[爱发电](https://afdian.net/@lxnssama)支持软糖酱的可持续运行。[赞助列表](/about/donate/)
+机器人的维护及运营需要费用，您可以通过[爱发电](https://afdian.net/@lxnssama)支持软糖酱的可持续运行。
+
+### [赞助列表（爱发电）](/about/donate/)
