@@ -4,6 +4,11 @@
 
 软糖酱（LxBot）是一款完全公益性质的功能型机器人。
 
+## 通知账号
+哔哩哔哩：[@软糖酱_Official](https://space.bilibili.com/1432317833/dynamic)
+
+Twitter（英文）：[@LxBot_Official](https://twitter.com/LxBot_Official)
+
 ## 联系我们
 QQ 群：
 - 一群（已满）：**1151290186**
@@ -11,15 +16,13 @@ QQ 群：
 
 Discord 服务器：[落雪咖啡屋](https://discord.gg/YVXA6jpJkF)
 
-哔哩哔哩：[@软糖酱_Official](https://space.bilibili.com/1432317833/dynamic)
-
-Twitter（英文）：[@LxBot_Official](https://twitter.com/LxBot_Official)
+Telegram 群组：[落雪咖啡屋](https://t.me/joinchat/4SFW72p0rCI2NWY9)
 
 ## 特别鸣谢
 > 排名不分先后。
 
-### Phigros / Orzmic 谱面定数测定组
-为 Phigros、Orzmic 模块提供曲目数据。
+### Phigros 谱面定数测定组
+为 Phigros 模块提供曲目数据。
 
 成员：Crazy_Bull、SystemKr、Tomorrowgas、东城eastown、Nugget 等
 
@@ -44,7 +47,7 @@ Twitter（英文）：[@LxBot_Official](https://twitter.com/LxBot_Official)
 - 软糖部分插画、旧官网图标画师：[伶乃](https://space.bilibili.com/48046173/)
 - 文档图标画师：[PIKARU闪闪](https://bcy.net/u/104986737835)
 - 2021 软糖生日插画画师：[唸下](https://mihuashi.com/users/%E5%94%B8%E4%B8%8B)
-- 2021 纪念勋章、每日运势画师：[魔法少女星岛洛](https://space.bilibili.com/574477/)
+- 2021 纪念勋章、每日运势画师：[-魔法少女洛-](https://space.bilibili.com/574477/)
 - 虚拟形象画师：[潮留芥末](https://space.bilibili.com/34785075/)
 - 虚拟形象模型师：[雪宫林绘YukimiyaRine](https://space.bilibili.com/1554883/)
 
@@ -56,7 +59,7 @@ Twitter（英文）：[@LxBot_Official](https://twitter.com/LxBot_Official)
   - [mamoe/mirai](https://github.com/mamoe/mirai)
   - [project-mirai/mirai-api-http](https://github.com/project-mirai/mirai-api-http)
   - [Lxns-Network/mirai-python-sdk](https://github.com/Lxns-Network/mirai-python-sdk)（基于 kuriyama 修改后的版本）
-- Arcaea 模块查分：[TheSnowfield/BotArcAPI](https://github.com/TheSnowfield/BotArcAPI)
+- Arcaea 模块查分：TheSnowfield/BotArcAPI
 
 与每位用户的支持。
 

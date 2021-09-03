@@ -1,7 +1,8 @@
 # Arcaea
 <span class="span-friend">私聊</span>
 <span class="span-group">群聊</span>
-<span class="span-discord">Discord</span>
+<span class="span-discord">DC</span>
+<span class="span-telegram">TG</span>
 
 ::: tip 注意
 Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
@@ -37,8 +38,9 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 ## 查询 Best 30
 返回所有 Best 30 成绩、Best 31 至 33 成绩、计算后的 Best 30 与 Recent Top 10 均值。
 ```
-/a b30
+/a b30 [simple]
 ```
+`[simple]` 不为空时则为获取简易样式（不含 Best 31 至 33 的成绩），如 `/a b30 simple` 。
 
 ## 潜力值计算
 通过定数与成绩计算出潜力值。

@@ -4,6 +4,29 @@
 
 ---
 
+## 2021 年 8 月
+- 花火
+- Widecss
+- huige
+- BUFF
+- EWT-BlogMan
+- AutumnBreeze
+- HsBlockAdmin
+- 爱发电用户_VRnk
+- yuzh520
+- Schokodale
+- Nostalgia恋
+- 凝风jl
+- 爱发电用户_jXkR
+- Lea/D捡漏王
+- 爱发电用户_fcEJ
+- Bittersweet
+- 爱发电用户_ebyA
+- Rinne511
+- MWH小明君
+- 码三岁
+- Waderv
+
 ## 2021 年 7 月
 - ZAQWSXCD
 - 神谕丶Kinano

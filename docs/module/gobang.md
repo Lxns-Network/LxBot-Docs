@@ -1,5 +1,7 @@
 # 五子棋
 <span class="span-group">群聊</span>
+<span class="span-discord">DC</span>
+<span class="span-telegram">TG</span>
 
 ::: tip 注意
 本模块并不包含黑方禁手的判定，请玩家自行根据[该链接](https://baike.baidu.com/item/%E7%A6%81%E6%89%8B)判定。

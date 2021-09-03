@@ -2,6 +2,7 @@
 <span class="span-friend">私聊</span>
 <span class="span-group">群聊</span>
 <span class="span-discord">DC</span>
+<span class="span-telegram">TG</span>
 
 软糖酱最基础的运行模块。
 
@@ -39,10 +40,16 @@
 达到现阶段满级后将会额外赠送随机 1 至 10 的硬币，理论最高单日可获取的硬币数为 20。
 :::
 
-### 签到排行
+### 单日签到排行
 获取当日签到排名前十的用户。
 ```
 /b sign rank
+```
+
+### 连续签到排行
+获取连续签到排行前十的用户。
+```
+/b sign rank2
 ```
 
 ### 个人签到详情

@@ -13,7 +13,14 @@
 	border-radius: 4px;
 }
 .span-discord {
-	background: rgb(114,137,218);
+	background: rgb(86,98,246);
+	color: white;
+	padding: 0px 8px;
+	display: inline-block;
+	border-radius: 4px;
+}
+.span-telegram {
+	background: rgb(64,167,227);
 	color: white;
 	padding: 0px 8px;
 	display: inline-block;

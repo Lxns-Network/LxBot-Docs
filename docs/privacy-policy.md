@@ -6,11 +6,11 @@
 
 为了使隐私政策更加清晰，我们使用缩短的术语来表达某些概念。
 
-- **QQ**、**Discord** 是即时聊天软件。
+- **QQ**、**Discord**、**Telegram** 是即时聊天软件。
 
-- **软糖酱**是提供服务的 QQ 与 Discord 账号主体。
+- **软糖酱**是提供服务的账号（如 QQ、Discord、Telegram 等）主体，也称作 LxBot。
 
-- **Lxnet** 指的是 Lxns Network，即软糖酱开发团队。
+- **Lxnet** 指的是 Lxns Network，即软糖酱的开发团队。
 
 - **您**是用户。
 

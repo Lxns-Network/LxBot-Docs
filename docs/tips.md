@@ -71,6 +71,8 @@
 
 <span class="span-discord">DC</span>：该指令仅 Discord 版 Bot 可用。
 
+<span class="span-telegram">TG</span>：该指令仅 Telegram 版 Bot 可用。
+
 <span class="span-admin">群管理员</span>：该指令仅本群管理员可用。
 
 > 在 Discord 中，拥有**通用服务器权限 > 管理服务器**或**高级权限 > 管理员**身份组的用户为 <span class="span-admin">群管理员</span> 。

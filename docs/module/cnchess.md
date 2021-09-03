@@ -1,5 +1,7 @@
 # 象棋
 <span class="span-group">群聊</span>
+<span class="span-discord">DC</span>
+<span class="span-telegram">TG</span>
 
 ---
 
