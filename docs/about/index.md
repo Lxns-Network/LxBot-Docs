@@ -14,9 +14,9 @@ QQ 群：
 - 一群（已满）：**1151290186**
 - 二群：**197573249**
 
-Discord 服务器：[落雪咖啡屋](https://discord.gg/YVXA6jpJkF)
+Discord 服务器：[Lxns Network](https://discord.gg/YVXA6jpJkF)
 
-Telegram 群组：[落雪咖啡屋](https://t.me/joinchat/4SFW72p0rCI2NWY9)
+Telegram 群组：[@LxBot_Official_CN](https://t.me/LxBot_Official_CN)
 
 ## 特别鸣谢
 > 排名不分先后。
@@ -35,12 +35,7 @@ Telegram 群组：[落雪咖啡屋](https://t.me/joinchat/4SFW72p0rCI2NWY9)
 ### 个人（翻译支持）
 <a title="Crowdin" target="_blank" href="https://crowdin.com/project/lxbot"><img src="https://badges.crowdin.net/lxbot/localized.svg"></a>
 
-- 繁體中文：cat10032、tnk351、gsycl2004、huakaihualuo、NaginoRei、SFD、SY91419、YTlau9487、wonghh381
-- English：ZetaSiro、gsycl2004、bittersweet、huakaihualuo、jasonren0403、LeseningNano、M14、MimaGlows、Mcxiaowei、robisntnk、SkyEyeFAST、SongU、t404owo、buliyv1388、Kinrito、WhoAmI.、Keldeoroks、SFD、SY91419、Naptie、poddubtseviliya、Aperia_LGR、wonghh381
-- 日本語：hakatanoshio_o、kuri_owo、M14、Mafuyu17、Rep_Hirricane、SongU、kawasiro.marisa、matyattya、MikuroXina、Clinsmile、opera7133
-- 한국어：TechKor、Nugget、PIIGEON、jengurai、Aperia_LGR
-- Français：Sennzai
-- Deutsche：t404owo
+在 [Crowdins](https://crowdin.com/project/lxbot/members) 中查看。
 
 ### 个人（其他有偿）
 > 按时间排序。
@@ -55,11 +50,12 @@ Telegram 群组：[落雪咖啡屋](https://t.me/joinchat/4SFW72p0rCI2NWY9)
 
 ### GitHub 项目
 软糖酱的发展离不开以下开源项目：
-- 协议支持：
+- QQ 协议支持：
   - [mamoe/mirai](https://github.com/mamoe/mirai)
   - [project-mirai/mirai-api-http](https://github.com/project-mirai/mirai-api-http)
   - [Lxns-Network/mirai-python-sdk](https://github.com/Lxns-Network/mirai-python-sdk)（基于 kuriyama 修改后的版本）
 - Arcaea 模块查分：TheSnowfield/BotArcAPI
+- maimai 模块：[Diving-Fish/mai-bot](https://github.com/Diving-Fish/mai-bot)
 
 与每位用户的支持。
 

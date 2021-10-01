@@ -31,8 +31,9 @@ sidebar: false
   - [Arcaea](./arcaea/)
   - [Phigros](./phigros/)
   - [osu!droid](./osudroid/)
-  - [Orzmic](/module/orzmic/)
-  - [SDVX](/module/sdvx/)
+  - [Orzmic](./orzmic/)
+  - [maimai](./maimai/)
+  - [SDVX](./sdvx/)
 - 文本工具：
   - 翻译：[Translate](./translate/)
   - 文本转语音：[TTS](./tts/)
