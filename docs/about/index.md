@@ -49,17 +49,15 @@ Telegram 群组：[@LxBot_Official_CN](https://t.me/LxBot_Official_CN)
 感谢这些画师们给我们带来如此可爱的软糖。
 
 ### GitHub 项目
-软糖酱的发展离不开以下开源项目：
 - QQ 协议支持：
-  - [mamoe/mirai](https://github.com/mamoe/mirai)
-  - [project-mirai/mirai-api-http](https://github.com/project-mirai/mirai-api-http)
-  - [Lxns-Network/mirai-python-sdk](https://github.com/Lxns-Network/mirai-python-sdk)（基于 kuriyama 修改后的版本）
+  - [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
+  - [Lxns-Network/nakuru-project](https://github.com/Lxns-Network/nakuru-project)
 - Arcaea 模块查分：TheSnowfield/BotArcAPI
 - maimai 模块：[Diving-Fish/mai-bot](https://github.com/Diving-Fish/mai-bot)
 
-与每位用户的支持。
+以及每位用户的支持。
 
 ## 赞助
 机器人的维护及运营需要费用，您可以通过[爱发电](https://afdian.net/@lxnssama)支持软糖酱的可持续运行。
 
-### [赞助列表（爱发电）](/about/donate/)
+### [赞助列表（爱发电）](https://bot.lxns.org/sponsor/)
