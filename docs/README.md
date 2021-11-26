@@ -10,7 +10,7 @@ title: 帮助文档
 </style>
 
 # 帮助文档
-> 适用版本号：v2.3.5
+> 适用版本号：v2.3.7
 
 本文档将指引您如何获取并使用 LxBot。
 
@@ -47,7 +47,9 @@ title: 帮助文档
 
 方式一：[加入软糖官方服务器](https://discord.gg/YVXA6jpJkF)
 
-方式二：[通过 OAuth2 添加到自己的服务器](https://discord.com/oauth2/authorize?client_id=815104216372346881&permissions=3590208&scope=bot)
+> 在服务器的用户列表中选中 `LxBot` 可以直接添加到自己的服务器。
+
+方式二：[通过 OAuth2 添加到自己的服务器（需要登录）](https://discord.com/oauth2/authorize?client_id=815104216372346881&permissions=3590208&scope=bot)
 
 ## 获取 Telegram 机器人 <Badge type="warning" text="Beta" vertical="middle" />
 ::: tip 注意
@@ -63,11 +65,11 @@ title: 帮助文档
 ## 使用机器人
 使用本机器人即代表您同意软糖酱的[使用条款](/terms-of-use/)与[隐私政策](/privacy-policy/)，以下为主要页面导航：
 
-### [模块列表](/module/)
+### [模块列表](./module/)
 查询详细指令的帮助。
 
-### [阅读提示](/tips/)
+### [阅读提示](./tips/)
 可以帮助您更好地理解文档。
 
-### [常见问题](/faq/)
+### [常见问题](./faq/)
 一些使用时出现问题的解决方案。

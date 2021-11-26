@@ -22,6 +22,7 @@ sidebar: false
   - 二维码：[QRC](./qrc/)
   - 以图搜图：[Search](./search/)
 - [Minecraft](./minecraft/)
+- 米言：[Miyan](./miyan/)
 - 网络工具：[Network](./network/)
 - 画板：[Paint](./paint/)
 - 公主连结：[PCR](./pcr/)

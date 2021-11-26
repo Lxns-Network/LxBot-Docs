@@ -12,7 +12,7 @@
 ```
 `<语言>` 可选值：
 ::: details 查看详细列表
-- Python 3：`py`
+- Python 3.9：`py`
   <br>预装的第三方库：Pillow、numpy、matplotlib、kiwisolver、python-dateutil、pyparsing、cycler、six
   <br>预装的字体：NotoSansCJKSC-Black.ttf、NotoSerifCJKSC-Black.ttf
 - Node.js：`js`
@@ -42,7 +42,7 @@
 :::
 
 ::: theorem 图片返回
-在运行目录下有一名为 `temp` 的目录，若有输出图片需求，请向该目录保存图片。
+在运行目录下有一名为 `temp` 的目录，若有输出图片需求，请向该目录保存图片。图片的最大尺寸为 `5000×5000` 。
 
 示例指令（Python 3）：
 ```py
