@@ -10,13 +10,11 @@
 Twitter（英文）：[@LxBot_Official](https://twitter.com/LxBot_Official)
 
 ## 联系我们
+QQ 频道：[落雪咖啡屋](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=1SJaD1&from=246610&biz=ka)
+
 QQ 官方一群（已满）：**1151290186**
 
 QQ 官方二群：**197573249**
-
-QQ 频道：在频道发现中搜索 `落雪咖啡屋` 或加入群 **914509733** 在群代办中获取频道通行证。
-
-> 手机 QQ 版本建议至少为 8.8.50。
 
 Discord 服务器：[Lxns Network](https://discord.gg/YVXA6jpJkF)
 
@@ -32,9 +30,12 @@ Telegram 群组：[@LxBot_Official_CN](https://t.me/LxBot_Official_CN)
 
 ### 个人（技术支持）
 - mi3ka：为 SDVX 模块提供 SDVX 4 曲目数据等支持。
-- chinosk：为 SDVX 模块提供 SDVX 5, 6 曲目数据。
+- chinosk：
+  - 为 Arcaea 模块提供查车接口。
+  - 为 SDVX 模块提供 SDVX 5, 6 曲目数据。
 - EdrowsLuo：为 osu!droid 模块提供相关接口。
 - 湖上の氷精：BotArcAPI、RABiBOT 联动相关。
+- Big_True：为 Orzmic 模块提供曲目数据。
 
 ### 个人（翻译支持）
 <a title="Crowdin" target="_blank" href="https://crowdin.com/project/lxbot"><img src="https://badges.crowdin.net/lxbot/localized.svg"></a>
@@ -50,13 +51,13 @@ Telegram 群组：[@LxBot_Official_CN](https://t.me/LxBot_Official_CN)
 - 虚拟形象画师：[潮留芥末](https://space.bilibili.com/34785075/)
 - 虚拟形象模型师：[雪宫林绘YukimiyaRine](https://space.bilibili.com/1554883/)
 
-感谢这些画师们给我们带来如此可爱的软糖。
+感谢他们给我们带来如此可爱的软糖。
 
 ### GitHub 项目
 - QQ 协议支持：
   - [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
   - [Lxns-Network/nakuru-project](https://github.com/Lxns-Network/nakuru-project)
-- Arcaea 模块查分：TheSnowfield/BotArcAPI
+- Arcaea 模块非官方查分接口：TheSnowfield/BotArcAPI
 - maimai 模块：[Diving-Fish/mai-bot](https://github.com/Diving-Fish/mai-bot)
 
 以及每位用户的支持。

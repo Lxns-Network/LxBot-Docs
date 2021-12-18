@@ -12,7 +12,7 @@ module.exports = ctx => ({
     displayAllHeaders: true,
     smoothScroll: true,
     lastUpdated: '最后更新时间',
-    repo: 'Lxns-Network/LxBot-QQ-Docs',
+    repo: 'Lxns-Network/LxBot-Docs',
     repoLabel: 'GitHub'
   },
   head: [
@@ -37,9 +37,6 @@ module.exports = ctx => ({
       indexSuffix: '/',
       notFoundPath: '/404.html',
     }],
-    ['@vuepress/search', { // 搜索
-      searchMaxSuggestions: 10
-    }],
 	  ['@vuepress/pwa', { // 离线页面
       serviceWorker: true,
       updatePopup: {
@@ -55,6 +52,9 @@ module.exports = ctx => ({
       type: 'theorem',
       before: info => `<div class="theorem"><p class="title">${info}</p>`,
       after: '</div>',
+    }],
+    ['flexsearch-pro', { // 搜索
+      searchPaths: ['/module/']
     }]
   ],
   pwa: {

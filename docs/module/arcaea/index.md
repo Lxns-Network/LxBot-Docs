@@ -6,6 +6,8 @@
 
 ::: tip 注意
 Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
+
+关于 Arcaea 查分功能的通知：[https://www.bilibili.com/read/cv14463516](https://www.bilibili.com/read/cv14463516)
 :::
 
 ---
@@ -55,13 +57,24 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 
 ## 曲目信息
 ```
-/a song <曲名>
+/a song <曲名> [难度]
 ```
+`[难度]` 不为空时查询谱面信息，可选值：
+- Beyond：`beyond` 、 `byd` 或 `byn`
+- Future（默认）：`future` 或 `ftr`
+- Present：`present` 或 `prs`
+- Past：`past` 或 `pst`
 
 ## 音频预览
 ```
-/a play <曲名> [截取区间]
+/a play <曲名> [难度] [截取区间]
 ```
+`[难度]` 不为空时播放谱面特有音频，可选值：
+- Beyond：`beyond` 、 `byd` 或 `byn`
+- Future（默认）：`future` 或 `ftr`
+- Present：`present` 或 `prs`
+- Past：`past` 或 `pst`
+
 `[截取区间]` 具体参数为 `<起始秒>-<结束秒>`，为空时默认游戏预览位置。
 
 `<结束秒>` 不能大于曲目长度，为 **0** 时默认歌曲总秒数。
@@ -95,6 +108,19 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 通过定数搜索曲目。
 ```
 /a find <定数>
+```
+
+## 查车
+查询或分享自己的 Link-Play 房间号。
+
+### 车牌列表
+```
+/a ycm
+```
+
+### 发车
+```
+/a ycm <房间号> [描述]
 ```
 
 ## 猜歌
@@ -168,7 +194,5 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 ```
 /a calcscore <物量> <目标分数>
 ```
-
-## [多人游戏](/module/arcaea/multiplayer/)
 
 ## [世界模式](/module/arcaea/world/)

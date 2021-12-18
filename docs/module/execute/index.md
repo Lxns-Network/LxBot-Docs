@@ -13,7 +13,7 @@
 `<语言>` 可选值：
 ::: details 查看详细列表
 - Python 3.9：`py`
-  <br>预装的第三方库：Pillow、numpy、matplotlib、kiwisolver、python-dateutil、pyparsing、cycler、six
+  <br>预装的第三方库：Pillow、numpy、matplotlib、scipy、kiwisolver、python-dateutil、pyparsing、cycler、six
   <br>预装的字体：NotoSansCJKSC-Black.ttf、NotoSerifCJKSC-Black.ttf
 - Node.js：`js`
 - Lua：`lua`
@@ -41,8 +41,8 @@
 - Scala（暂不可用）：`scala`
 :::
 
-::: theorem 图片返回
-在运行目录下有一名为 `temp` 的目录，若有输出图片需求，请向该目录保存图片。图片的最大尺寸为 `5000×5000` 。
+::: theorem 文件返回
+在运行目录下有一名为 `temp` 的目录，若有输出文件需求，请向该目录保存文件。图片的最大尺寸为 `5000×5000` 。音频的最大大小为 `1MB`。
 
 示例指令（Python 3）：
 ```py
@@ -57,6 +57,9 @@ image.save("./temp/a.jpg")
 - image/jpg
 - image/png
 - image/gif
+- audio/wav
+- audio/ogg
+- audio/mp3
 :::
 
 ## 用户代码

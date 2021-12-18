@@ -11,6 +11,7 @@
     "vuepress": "^1.5.4",
     "vuepress-plugin-clean-urls": "^1.1.1",
     "vuepress-plugin-container": "^2.1.4",
+    "vuepress-plugin-flexsearch-pro": "^1.0.3",
     "vuepress-plugin-fulltext-search": "^2.0.5",
     "vuepress-plugin-img-lazy": "^1.0.4",
     "vuepress-plugin-table-of-contents": "^1.1.6",
