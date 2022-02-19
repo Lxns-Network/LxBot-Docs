@@ -10,14 +10,14 @@ title: 帮助文档
 </style>
 
 # 帮助文档
-> 适用版本号：v2.4.0
+> 适用版本号：v2.4.1
 
 本文档将指引您如何获取并使用 LxBot。
 
 **软糖酱** 为 LxBot 对外公开的昵称，本文档其它部分将使用此昵称。
 
 ::: tip 公告
-我们正在进行软糖酱的多语言翻译，欢迎前往 [Crowdin](https://crwd.in/lxbot/) 贡献翻译。在翻译时，请优先翻译 `zh.json` 与 `help.json` 文件。
+我们正在进行软糖酱的本地化翻译，欢迎前往 [Crowdin](https://crwd.in/lxbot/) 贡献翻译。在翻译时，请优先翻译 `zh.json` 与 `help.json` 文件。
 :::
 
 ## 获取机器人

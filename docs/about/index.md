@@ -16,7 +16,7 @@ QQ 官方一群（已满）：**1151290186**
 
 QQ 官方二群：**197573249**
 
-Discord 服务器：[Lxns Network](https://discord.gg/YVXA6jpJkF)
+Discord 服务器：[Lxns Network](https://discord.gg/lxnet)
 
 Telegram 群组：[@LxBot_Official_CN](https://t.me/LxBot_Official_CN)
 
@@ -44,12 +44,12 @@ Telegram 群组：[@LxBot_Official_CN](https://t.me/LxBot_Official_CN)
 
 ### 个人（其他有偿）
 > 按时间排序。
-- 软糖部分插画、旧官网图标画师：[伶乃](https://space.bilibili.com/48046173/)
+- 软糖原设定插画、官网图标画师：[伶乃](https://space.bilibili.com/48046173/)
 - 文档图标画师：[PIKARU闪闪](https://bcy.net/u/104986737835)
 - 2021 软糖生日插画画师：[唸下](https://mihuashi.com/users/%E5%94%B8%E4%B8%8B)
-- 2021 纪念勋章、每日运势画师：[洛洛freme](https://space.bilibili.com/574477/)
-- 虚拟形象画师：[潮留芥末](https://space.bilibili.com/34785075/)
-- 虚拟形象模型师：[雪宫林绘YukimiyaRine](https://space.bilibili.com/1554883/)
+- 2021 纪念勋章、每日运势画师：[洛洛Freme](https://space.bilibili.com/574477/)
+- 虚拟形象画师：[潮留芥末](https://space.bilibili.com/34785075/)（模型：[雪宫林绘YukimiyaRine](https://space.bilibili.com/1554883/)）
+- 软糖各平台头图画师：[花宮友紀](https://space.bilibili.com/1584781443/)
 
 感谢他们给我们带来如此可爱的软糖。
 

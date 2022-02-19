@@ -53,6 +53,7 @@
 ```
 
 ### 个人签到详情
+查询个人连续签到天数。
 ```
 /b sign info
 ```
@@ -67,8 +68,11 @@
 ## 今日运势
 > 结果仅供参考。
 ```
-/b fortune
+/b fortune [on|off]
 ```
+::: theorem 提示
+使用 `/b fortune off` 隐藏[签到](#签到)中的运势结果。
+:::
 
 ## 睡眠
 <span class="span-group">群聊</span>
@@ -118,6 +122,7 @@
 - 日本語：**jp**
 - 한국어：**kr**
 - Français：**fr**
+- Deutsch：**de**
 
 ## [硬币](/coin/)
 可以使用[签到](#签到)获取硬币，使用 `/b help base.coin` 查询内置帮助。
