@@ -10,7 +10,7 @@ title: 帮助文档
 </style>
 
 # 帮助文档
-> 适用版本号：v2.4.1
+> 适用版本号：v2.4.2
 
 本文档将指引您如何获取并使用 LxBot。
 
@@ -21,6 +21,10 @@ title: 帮助文档
 :::
 
 ## 获取机器人
+<p><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fbot-api.lxns.net%2Fuptime%2Fqq">
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fbot-api.lxns.net%2Fuptime%2Fdiscord">
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fbot-api.lxns.net%2Fuptime%2Ftelegram"></p>
+
 您可以在以下三个平台中使用软糖酱：
 
 ### [QQ](./obtain/qq/)

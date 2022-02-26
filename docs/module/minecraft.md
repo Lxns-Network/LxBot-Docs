@@ -29,6 +29,11 @@
 
 ## 默认查询服务器
 <span class="span-group">群聊</span>
+
+<span class="span-admin">群管理员</span>
+<span class="span-group">群主</span>
+<span class="span-bot-admin">Bot 管理员</span>
+<span class="span-bot-helper">Bot 协助者</span>
 ```
 /mc conf server [服务器 IP[:端口]]
 ```

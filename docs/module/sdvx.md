@@ -37,11 +37,6 @@
 `[卡片 ID]` 默认值为 **05_0001**。
 
 ## 音频预览
-<span class="span-discord">DC</span>
 ```
 /sv play <曲名>
 ```
-
-::: tip 注意
-该功能需要[语音](/module/discord/#语音)。
-:::
