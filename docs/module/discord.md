@@ -10,13 +10,7 @@
 ```
 /dc server lang [语言]
 ```
-`[语言]` 为空时返回当前语言，可选值：
-- 简体中文（默认）：**zh**
-- 繁體中文：**tw**
-- English：**en**
-- 日本語：**jp**
-- 한국어：**kr**
-- Français：**fr**
+`[语言]` 为空时返回当前语言，可选值见[语言](/module/base/#语言)。
 
 ## 频道
 <span class="span-discord">DC</span>
@@ -26,13 +20,7 @@
 ```
 /dc channel lang [语言]
 ```
-`[语言]` 为空时返回当前语言，可选值：
-- 简体中文（默认）：**zh**
-- 繁體中文：**tw**
-- English：**en**
-- 日本語：**jp**
-- 한국어：**kr**
-- Français：**fr**
+`[语言]` 为空时返回当前语言，可选值见[语言](/module/base/#语言)。
 
 ## 语音
 <span class="span-discord">DC</span>

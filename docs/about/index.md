@@ -42,14 +42,19 @@ Telegram 群组：[@LxBot_Official_CN](https://t.me/LxBot_Official_CN)
 
 在 [Crowdins](https://crowdin.com/project/lxbot/members) 中查看。
 
+### 个人（其他无偿）
+- 软糖主题曲《JeLLy DroP!!!(软糖)》曲师：[SUMi_粟米](https://space.bilibili.com/3220270/)
+
 ### 个人（其他有偿）
 > 按时间排序。
 - 软糖原设定插画、官网图标画师：[伶乃](https://space.bilibili.com/48046173/)
 - 文档图标画师：[PIKARU闪闪](https://bcy.net/u/104986737835)
-- 2021 软糖生日插画画师：[唸下](https://mihuashi.com/users/%E5%94%B8%E4%B8%8B)
+- 2021 生日贺图画师：[唸下](https://mihuashi.com/users/%E5%94%B8%E4%B8%8B)
 - 2021 纪念勋章、每日运势画师：[洛洛Freme](https://space.bilibili.com/574477/)
-- 虚拟形象画师：[潮留芥末](https://space.bilibili.com/34785075/)（模型：[雪宫林绘YukimiyaRine](https://space.bilibili.com/1554883/)）
+- 虚拟形象画师：[潮留芥末](https://space.bilibili.com/34785075/)
+- 虚拟形象模型师：[雪宫林绘YukimiyaRine](https://space.bilibili.com/1554883/)
 - 软糖各平台头图画师：[花宮友紀](https://space.bilibili.com/1584781443/)
+- 2022 生日贺图画师：[漫漫漫游海洋的泡沫](https://space.bilibili.com/186674506/)
 
 感谢他们给我们带来如此可爱的软糖。
 
@@ -57,7 +62,7 @@ Telegram 群组：[@LxBot_Official_CN](https://t.me/LxBot_Official_CN)
 - QQ 协议支持：
   - [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
   - [Lxns-Network/nakuru-project](https://github.com/Lxns-Network/nakuru-project)
-- Arcaea 模块非官方查分接口：TheSnowfield/BotArcAPI
+- Arcaea 模块非官方查分接口：Arcaea-Infinity/ArcaeaUnlimitedAPI
 - maimai 模块：[Diving-Fish/mai-bot](https://github.com/Diving-Fish/mai-bot)
 
 以及每位用户的支持。
