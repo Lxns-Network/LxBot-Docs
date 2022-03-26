@@ -101,10 +101,17 @@ Arcaea 由 lowiro 开发，该工具与 Arcaea 以及 lowiro 无从属关系。
 /a conf <选项>
 ```
 `<选项>` 可选值：
-- 卡片查询类型：`img` 或 `image`
-  - LxBot（默认）
-  - RABiBOT v2
+- 最近、最佳成绩图查类型：`img [参数]` 或 `image [参数]`
+<br>`[参数]` 可选值：
+  - LxBot（默认）：`0`
+  - RABiBOT v2：`1`
   <br>*仅支持[查询最近成绩](./#查询最近成绩)。*
+  - Andreal v1：`2`
+  - Andreal v2：`3`
+  - Andreal v3：`4`
+- Best 30 图查类型：`b30` 或 `best30`
+  - LxBot（默认）
+  - Andreal
 
 ## 定数搜索
 通过定数搜索曲目。

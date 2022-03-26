@@ -34,13 +34,9 @@ Telegram 群组：[@LxBot_Official_CN](https://t.me/LxBot_Official_CN)
   - 为 Arcaea 模块提供查车接口。
   - 为 SDVX 模块提供 SDVX 5, 6 曲目数据。
 - EdrowsLuo：为 osu!droid 模块提供相关接口。
-- 湖上の氷精：BotArcAPI、RABiBOT 联动相关。
+- 湖上の氷精：为 Arcaea 模块提供 RABiBOT 图查样式。
+- Awbugl：为 Arcaea 模块提供 Andreal 图查样式与第三方查分接口。
 - Big_True：为 Orzmic 模块提供曲目数据。
-
-### 个人（翻译支持）
-<a title="Crowdin" target="_blank" href="https://crowdin.com/project/lxbot"><img src="https://badges.crowdin.net/lxbot/localized.svg"></a>
-
-在 [Crowdins](https://crowdin.com/project/lxbot/members) 中查看。
 
 ### 个人（其他无偿）
 - 软糖主题曲《JeLLy DroP!!!(软糖)》曲师：[SUMi_粟米](https://space.bilibili.com/3220270/)
@@ -63,6 +59,7 @@ Telegram 群组：[@LxBot_Official_CN](https://t.me/LxBot_Official_CN)
   - [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
   - [Lxns-Network/nakuru-project](https://github.com/Lxns-Network/nakuru-project)
 - Arcaea 模块非官方查分接口：Arcaea-Infinity/ArcaeaUnlimitedAPI
+- Arcaea 模块 Andreal 图查样式：[Awbugl/AndrealImageGenerator](https://github.com/Awbugl/AndrealImageGenerator)
 - maimai 模块：[Diving-Fish/mai-bot](https://github.com/Diving-Fish/mai-bot)
 
 以及每位用户的支持。

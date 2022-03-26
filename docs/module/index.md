@@ -18,6 +18,7 @@ sidebar: false
 - 五子棋：[Gobang](./gobang/)
 - 图片工具：
   - 内容鉴别：[Detect](./detect/)
+  - 图片生成：[Generate](./generate/)
   - 图片文字识别：[OCR](./ocr/)
   - 二维码：[QRC](./qrc/)
   - 以图搜图：[Search](./search/)
