@@ -51,6 +51,8 @@ Telegram 群组：[@LxBot_Official_CN](https://t.me/LxBot_Official_CN)
 - 虚拟形象模型师：[雪宫林绘YukimiyaRine](https://space.bilibili.com/1554883/)
 - 软糖各平台头图画师：[花宮友紀](https://space.bilibili.com/1584781443/)
 - 2022 生日贺图画师：[漫漫漫游海洋的泡沫](https://space.bilibili.com/186674506/)
+- 软糖新 Q 版画师：[烂兔](https://space.bilibili.com/702105/)
+- 软糖表情包画师：[晓零子_](https://space.bilibili.com/29159647/)
 
 感谢他们给我们带来如此可爱的软糖。
 
