@@ -16,6 +16,12 @@ title: 帮助文档
 
 **软糖酱** 为 LxBot 对外公开的昵称，本文档其它部分将使用此昵称。
 
+::: warning 停止维护告示
+LxBot 现版本已经基本停止维护（除 Arcaea 模块等需要定期更新的模块以外），现在我们正在着手全新版本 LxBot 3.0 的开发。
+
+同时，鉴于软糖近期 QQ 平台运营状况与未来规划，软糖现在已经**不再接受群聊白名单的申请**。如有软糖使用需要，可以了解软糖酱分布式客户端（LxBot Client Forwarder），该客户端现在正在进行早期测试，您可以前往[腾讯文档](https://docs.qq.com/doc/p/8b45c4ec2331bc89de8d82c6449dbc634b9f78dc)了解该客户端的详情。
+:::
+
 ## 获取机器人
 <p><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fbot-api.lxns.net%2Fuptime%2Fqq">
 <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fbot-api.lxns.net%2Fuptime%2Fdiscord">
